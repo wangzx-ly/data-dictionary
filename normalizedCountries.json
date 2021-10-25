@@ -20,6 +20,13 @@
     "code3": "ALB",
     "num": "008"
   },
+  "ALEMANIA": {
+    "normal": "GERMANY",
+    "name": "德国",
+    "code": "DE",
+    "code3": "DEU",
+    "num": "276"
+  },
   "ALGERIA": {
     "normal": "ALGERIA",
     "name": "阿尔及利亚",
@@ -223,6 +230,13 @@
     "code3": "BVT",
     "num": "074"
   },
+  "BRASIL": {
+    "normal": "BRAZIL",
+    "name": "巴西",
+    "code": "BR",
+    "code3": "BRA",
+    "num": "076"
+  },
   "BRAZIL": {
     "normal": "BRAZIL",
     "name": "巴西",
@@ -279,6 +293,13 @@
     "code3": "BDI",
     "num": "108"
   },
+  "BÉLGICA": {
+    "normal": "BELGIUM",
+    "name": "比利时",
+    "code": "BE",
+    "code3": "BEL",
+    "num": "056"
+  },
   "CAMBODIA": {
     "normal": "CAMBODIA",
     "name": "柬埔寨",
@@ -294,6 +315,13 @@
     "num": "120"
   },
   "CANADA": {
+    "normal": "CANADA",
+    "name": "加拿大",
+    "code": "CA",
+    "code3": "CAN",
+    "num": "124"
+  },
+  "CANADÁ": {
     "normal": "CANADA",
     "name": "加拿大",
     "code": "CA",
@@ -461,6 +489,13 @@
     "code3": "DNK",
     "num": "208"
   },
+  "DINAMARCA": {
+    "normal": "DENMARK",
+    "name": "丹麦",
+    "code": "DK",
+    "code3": "DNK",
+    "num": "208"
+  },
   "DJIBOUTI": {
     "normal": "DJIBOUTI",
     "name": "吉布提",
@@ -524,6 +559,20 @@
     "code3": "ERI",
     "num": "232"
   },
+  "ESPANA": {
+    "normal": "SPAIN",
+    "name": "西班牙",
+    "code": "ES",
+    "code3": "ESP",
+    "num": "724"
+  },
+  "ESTADOS UNIDOS": {
+    "normal": "UNITED STATES",
+    "name": "美国",
+    "code": "US",
+    "code3": "USA",
+    "num": "840"
+  },
   "ESTONIA": {
     "normal": "ESTONIA",
     "name": "爱沙尼亚",
@@ -580,7 +629,21 @@
     "code3": "FIN",
     "num": "246"
   },
+  "FINLANDIA": {
+    "normal": "FINLAND",
+    "name": "芬兰",
+    "code": "FI",
+    "code3": "FIN",
+    "num": "246"
+  },
   "FRANCE": {
+    "normal": "FRANCE",
+    "name": "法国",
+    "code": "FR",
+    "code3": "FRA",
+    "num": "250"
+  },
+  "FRANCIA": {
     "normal": "FRANCE",
     "name": "法国",
     "code": "FR",
@@ -790,6 +853,13 @@
     "code3": "IRL",
     "num": "372"
   },
+  "IRLANDA": {
+    "normal": "IRELAND",
+    "name": "爱尔兰",
+    "code": "IE",
+    "code3": "IRL",
+    "num": "372"
+  },
   "ISLE OF MAN": {
     "normal": "ISLE OF MAN",
     "name": "马恩岛",
@@ -803,6 +873,13 @@
     "code": "IL",
     "code3": "ISR",
     "num": "376"
+  },
+  "ITALIA": {
+    "normal": "ITALY",
+    "name": "意大利",
+    "code": "IT",
+    "code3": "ITA",
+    "num": "380"
   },
   "ITALY": {
     "normal": "ITALY",
@@ -826,6 +903,13 @@
     "num": "388"
   },
   "JAPAN": {
+    "normal": "JAPAN",
+    "name": "日本",
+    "code": "JP",
+    "code3": "JPN",
+    "num": "392"
+  },
+  "JAPON": {
     "normal": "JAPAN",
     "name": "日本",
     "code": "JP",
@@ -1210,6 +1294,13 @@
     "code3": "OMN",
     "num": "512"
   },
+  "PAISES BAJOS": {
+    "normal": "NETHERLANDS",
+    "name": "荷兰",
+    "code": "NL",
+    "code3": "NLD",
+    "num": "528"
+  },
   "PAKISTAN": {
     "normal": "PAKISTAN",
     "name": "巴基斯坦",
@@ -1300,6 +1391,34 @@
     "code": "QA",
     "code3": "QAT",
     "num": "634"
+  },
+  "REINO UNIDO": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
+  "REPÚBLICA CHECA": {
+    "normal": "CZECHIA",
+    "name": "捷克",
+    "code": "CZ",
+    "code3": "CZE",
+    "num": "203"
+  },
+  "REPÚBLICA DE COREA DEL SUR": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
+  "REPÚBLICA POPULAR DE CHINA": {
+    "normal": "CHINA",
+    "name": "中国",
+    "code": "CN",
+    "code3": "CHN",
+    "num": "156"
   },
   "REUNION": {
     "normal": "REUNION",
@@ -1518,6 +1637,20 @@
     "code3": "SDN",
     "num": "729"
   },
+  "SUECIA": {
+    "normal": "SWEDEN",
+    "name": "瑞典",
+    "code": "SE",
+    "code3": "SWE",
+    "num": "752"
+  },
+  "SUIZA": {
+    "normal": "SWITZERLAND",
+    "name": "瑞士",
+    "code": "CH",
+    "code3": "CHE",
+    "num": "756"
+  },
   "SURINAME": {
     "normal": "SURINAME",
     "name": "苏里南",
@@ -1559,6 +1692,20 @@
     "code": "SY",
     "code3": "SYR",
     "num": "760"
+  },
+  "TAILANDIA": {
+    "normal": "THAILAND",
+    "name": "泰国",
+    "code": "TH",
+    "code3": "THA",
+    "num": "764"
+  },
+  "TAIWÁN": {
+    "normal": "CHINA TAIWAN",
+    "name": "中国台湾",
+    "code": "TW",
+    "code3": "TWN",
+    "num": "158"
   },
   "TAJIKISTAN": {
     "normal": "TAJIKISTAN",
@@ -1636,6 +1783,13 @@
     "code": "TC",
     "code3": "TCA",
     "num": "796"
+  },
+  "TURQUIA": {
+    "normal": "TURKEY",
+    "name": "土耳其",
+    "code": "TR",
+    "code3": "TUR",
+    "num": "792"
   },
   "TUVALU": {
     "normal": "TUVALU",
