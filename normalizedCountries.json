@@ -251,6 +251,13 @@
     "code3": "BOL",
     "num": "068"
   },
+  "BOSNIA AND HERZEGOVINA": {
+    "normal": "BOSNIA AND HERZEGOVINA",
+    "name": "波黑",
+    "code": "BA",
+    "code3": "BIH",
+    "num": "070"
+  },
   "BOSNIA HERZEGOVINA": {
     "normal": "BOSNIA AND HERZEGOVINA",
     "name": "波黑",
@@ -496,6 +503,13 @@
     "code3": "COM",
     "num": "174"
   },
+  "CONGO": {
+    "normal": "CONGO (BRAZZAVILLE)",
+    "name": "刚果（布）",
+    "code": "CG",
+    "code3": "COG",
+    "num": "178"
+  },
   "CONGO BRAZZAVILLE": {
     "normal": "CONGO (BRAZZAVILLE)",
     "name": "刚果（布）",
@@ -567,6 +581,13 @@
     "num": "192"
   },
   "CURAÇAO": {
+    "normal": "CURAÇAO",
+    "name": "库拉索",
+    "code": "CW",
+    "code3": "CUW",
+    "num": "531"
+  },
+  "CW": {
     "normal": "CURAÇAO",
     "name": "库拉索",
     "code": "CW",
@@ -867,6 +888,13 @@
     "code3": "GEO",
     "num": "268"
   },
+  "GERMANY": {
+    "normal": "GERMANY",
+    "name": "德国",
+    "code": "DE",
+    "code3": "DEU",
+    "num": "276"
+  },
   "GHANA": {
     "normal": "GHANA",
     "name": "加纳",
@@ -1029,6 +1057,13 @@
     "num": "360"
   },
   "IRAN": {
+    "normal": "IRAN",
+    "name": "伊朗",
+    "code": "IR",
+    "code3": "IRN",
+    "num": "364"
+  },
+  "IRAN ISLAMIC REPUBLIC OF": {
     "normal": "IRAN",
     "name": "伊朗",
     "code": "IR",
@@ -1203,6 +1238,20 @@
     "code3": "KIR",
     "num": "296"
   },
+  "KOREA DEMOCRATIC PEOPLES REP OF": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
+  "KOREA REPUBLIC OF": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
   "KUWAIT": {
     "normal": "KUWAIT",
     "name": "科威特",
@@ -1216,6 +1265,13 @@
     "code": "KG",
     "code3": "KGZ",
     "num": "417"
+  },
+  "LAO PEOPLES DEMOCRATIC REPUBLIC": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
   },
   "LAOS": {
     "normal": "LAOS",
@@ -1321,6 +1377,13 @@
     "code": "MO",
     "code3": "MAC",
     "num": "446"
+  },
+  "MACEDONIA F Y R": {
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MADAGASCAR": {
     "normal": "MADAGASCAR",
@@ -1672,6 +1735,13 @@
     "code3": "PAK",
     "num": "586"
   },
+  "PALAU": {
+    "normal": "PALAU",
+    "name": "帕劳",
+    "code": "PW",
+    "code3": "PLW",
+    "num": "585"
+  },
   "PALAU PELEW ISLANDS": {
     "normal": "PALAU",
     "name": "帕劳",
@@ -1720,6 +1790,13 @@
     "code": "PH",
     "code3": "PHL",
     "num": "608"
+  },
+  "PITCAIRN": {
+    "normal": "PITCAIRN",
+    "name": "皮特凯恩群岛",
+    "code": "PN",
+    "code3": "PCN",
+    "num": "612"
   },
   "PITCAIRN ISLANDS": {
     "normal": "PITCAIRN",
@@ -1861,6 +1938,13 @@
     "code3": "RUS",
     "num": "643"
   },
+  "RUSSIAN FEDERATION": {
+    "normal": "RUSSIA",
+    "name": "俄罗斯",
+    "code": "RU",
+    "code3": "RUS",
+    "num": "643"
+  },
   "RWANDA": {
     "normal": "RWANDA",
     "name": "卢旺达",
@@ -1874,6 +1958,13 @@
     "code": "BL",
     "code3": "BLM",
     "num": "652"
+  },
+  "SAINT KITTS AND NEVIS": {
+    "normal": "SAINT KITTS AND NEVIS",
+    "name": "圣基茨和尼维斯",
+    "code": "KN",
+    "code3": "KNA",
+    "num": "659"
   },
   "SAINT MARTIN FRANCE": {
     "normal": "SAINT MARTIN (FRENCH PART)",
@@ -1903,6 +1994,13 @@
     "code3": "SMR",
     "num": "674"
   },
+  "SAO TOME AND PRINCIPE": {
+    "normal": "SAO TOME AND PRINCIPE",
+    "name": "圣多美和普林西比",
+    "code": "ST",
+    "code3": "STP",
+    "num": "678"
+  },
   "SAOTOME PRINCIPE": {
     "normal": "SAO TOME AND PRINCIPE",
     "name": "圣多美和普林西比",
@@ -1925,6 +2023,13 @@
     "num": "686"
   },
   "SERBIA": {
+    "normal": "SERBIA",
+    "name": "塞尔维亚",
+    "code": "RS",
+    "code3": "SRB",
+    "num": "688"
+  },
+  "SERVIA": {
     "normal": "SERBIA",
     "name": "塞尔维亚",
     "code": "RS",
@@ -2190,6 +2295,13 @@
     "code3": "TWN",
     "num": "158"
   },
+  "TAIWAN PROVINCE OF CHINA": {
+    "normal": "CHINA TAIWAN",
+    "name": "中国台湾",
+    "code": "TW",
+    "code3": "TWN",
+    "num": "158"
+  },
   "TAIWÁN": {
     "normal": "CHINA TAIWAN",
     "name": "中国台湾",
@@ -2254,6 +2366,13 @@
     "num": "776"
   },
   "TRINIDAD": {
+    "normal": "TRINIDAD AND TOBAGO",
+    "name": "特立尼达和多巴哥",
+    "code": "TT",
+    "code3": "TTO",
+    "num": "780"
+  },
+  "TRINIDAD AND TOBAGO": {
     "normal": "TRINIDAD AND TOBAGO",
     "name": "特立尼达和多巴哥",
     "code": "TT",
@@ -2358,6 +2477,13 @@
     "code3": "GBR",
     "num": "826"
   },
+  "UNITED STATES": {
+    "normal": "UNITED STATES",
+    "name": "美国",
+    "code": "US",
+    "code3": "USA",
+    "num": "840"
+  },
   "UNITED STATES OUTLYING ISLANDS": {
     "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
     "name": "美国本土外小岛屿",
@@ -2442,6 +2568,13 @@
     "code3": "VIR",
     "num": "850"
   },
+  "VIRGIN ISLANDS U S": {
+    "normal": "VIRGIN ISLANDS (U.S.)",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
+  },
   "WALLIS FUTUNA": {
     "normal": "WALLIS AND FUTUNA",
     "name": "瓦利斯和富图纳",
@@ -2490,5 +2623,12 @@
     "code": "ZW",
     "code3": "ZWE",
     "num": "716"
+  },
+  "ZONAS FRANCAS DEL PERU": {
+    "normal": "PERU",
+    "name": "秘鲁",
+    "code": "PE",
+    "code3": "PER",
+    "num": "604"
   }
 }
