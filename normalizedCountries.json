@@ -97,6 +97,13 @@
     "code3": "SAU",
     "num": "682"
   },
+  "ARGELIA": {
+    "normal": "ALGERIA",
+    "name": "阿尔及利亚",
+    "code": "DZ",
+    "code3": "DZA",
+    "num": "012"
+  },
   "ARGENTINA": {
     "normal": "ARGENTINA",
     "name": "阿根廷",
@@ -237,6 +244,13 @@
     "code3": "BTN",
     "num": "064"
   },
+  "BIELORRUSIA": {
+    "normal": "BELARUS",
+    "name": "白俄罗斯",
+    "code": "BY",
+    "code3": "BLR",
+    "num": "112"
+  },
   "BIRMANIA": {
     "normal": "MYANMAR",
     "name": "缅甸",
@@ -356,6 +370,13 @@
     "code3": "BEL",
     "num": "056"
   },
+  "CABO VERDE": {
+    "normal": "CABO VERDE",
+    "name": "佛得角",
+    "code": "CV",
+    "code3": "CPV",
+    "num": "132"
+  },
   "CAMBODIA": {
     "normal": "CAMBODIA",
     "name": "柬埔寨",
@@ -378,6 +399,13 @@
     "num": "120"
   },
   "CAMERUN REP UNIDA DEL": {
+    "normal": "CAMEROON",
+    "name": "喀麦隆",
+    "code": "CM",
+    "code3": "CMR",
+    "num": "120"
+  },
+  "CAMERÚN": {
     "normal": "CAMEROON",
     "name": "喀麦隆",
     "code": "CM",
@@ -546,6 +574,13 @@
     "num": "410"
   },
   "COSTA DE MARFIL": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
+  "COSTA MARFIL": {
     "normal": "CÔTE D'IVOIRE",
     "name": "科特迪瓦",
     "code": "CI",
@@ -874,6 +909,13 @@
     "code3": "GAB",
     "num": "266"
   },
+  "GABÓN": {
+    "normal": "GABON",
+    "name": "加蓬",
+    "code": "GA",
+    "code3": "GAB",
+    "num": "266"
+  },
   "GAMBIA": {
     "normal": "GAMBIA",
     "name": "冈比亚",
@@ -985,6 +1027,13 @@
     "code": "GW",
     "code3": "GNB",
     "num": "624"
+  },
+  "GUINEA ECUATORIAL": {
+    "normal": "EQUATORIAL GUINEA",
+    "name": "赤道几内亚",
+    "code": "GQ",
+    "code3": "GNQ",
+    "num": "226"
   },
   "GUYANA": {
     "normal": "GUYANA",
@@ -1112,6 +1161,13 @@
     "code3": "ISL",
     "num": "352"
   },
+  "ISLAS BAHREIN": {
+    "normal": "BAHRAIN",
+    "name": "巴林",
+    "code": "BH",
+    "code3": "BHR",
+    "num": "048"
+  },
   "ISLAS MALVINAS": {
     "normal": "FALKLAND ISLANDS (MALVINAS)",
     "name": "福克兰群岛（马尔维纳斯）",
@@ -1204,6 +1260,13 @@
     "num": "400"
   },
   "KAZAJSTAN": {
+    "normal": "KAZAKHSTAN",
+    "name": "哈萨克斯坦",
+    "code": "KZ",
+    "code3": "KAZ",
+    "num": "398"
+  },
+  "KAZAJSTÁN": {
     "normal": "KAZAKHSTAN",
     "name": "哈萨克斯坦",
     "code": "KZ",
@@ -1377,6 +1440,13 @@
     "code": "MO",
     "code3": "MAC",
     "num": "446"
+  },
+  "MACEDONIA": {
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MACEDONIA F Y R": {
     "normal": "NORTH MACEDONIA",
@@ -1875,6 +1945,13 @@
     "code3": "DOM",
     "num": "214"
   },
+  "REPUBLICA SEYCHELLES": {
+    "normal": "SEYCHELLES",
+    "name": "塞舌尔",
+    "code": "SC",
+    "code3": "SYC",
+    "num": "690"
+  },
   "REPÚBLICA CHECA": {
     "normal": "CZECHIA",
     "name": "捷克",
@@ -1888,6 +1965,13 @@
     "code": "KR",
     "code3": "KOR",
     "num": "410"
+  },
+  "REPÚBLICA DEL CONGO": {
+    "normal": "CONGO (BRAZZAVILLE)",
+    "name": "刚果（布）",
+    "code": "CG",
+    "code3": "COG",
+    "num": "178"
   },
   "REPÚBLICA DEMOCRÁTICA POPULAR DE COREA NORTE": {
     "normal": "NORTH KOREA",
