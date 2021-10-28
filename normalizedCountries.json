@@ -2708,6 +2708,13 @@
     "code3": "ZWE",
     "num": "716"
   },
+  "ZONA NEUTRAL PALESTINA": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
   "ZONAS FRANCAS DEL PERU": {
     "normal": "PERU",
     "name": "秘鲁",
