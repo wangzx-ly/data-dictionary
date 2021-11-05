@@ -83,6 +83,13 @@
     "code3": "ATA",
     "num": "010"
   },
+  "ANTARTICA": {
+    "normal": "ANTARCTICA",
+    "name": "南极洲",
+    "code": "AQ",
+    "code3": "ATA",
+    "num": "010"
+  },
   "ANTIGUA": {
     "normal": "ANTIGUA AND BARBUDA",
     "name": "安提瓜和巴布达",
@@ -266,6 +273,13 @@
     "num": "068"
   },
   "BOSNIA AND HERZEGOVINA": {
+    "normal": "BOSNIA AND HERZEGOVINA",
+    "name": "波黑",
+    "code": "BA",
+    "code3": "BIH",
+    "num": "070"
+  },
+  "BOSNIA AND HERZEGOWINA": {
     "normal": "BOSNIA AND HERZEGOVINA",
     "name": "波黑",
     "code": "BA",
@@ -552,6 +566,13 @@
     "code3": "COD",
     "num": "180"
   },
+  "CONGO THE DEMOCRATIC REPUBLIC OF THE": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
   "COOK ISLANDS": {
     "normal": "COOK ISLANDS",
     "name": "库克群岛",
@@ -593,6 +614,13 @@
     "code": "CR",
     "code3": "CRI",
     "num": "188"
+  },
+  "COTE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
   },
   "CROACIA": {
     "normal": "CROATIA",
@@ -670,6 +698,13 @@
     "code": "DM",
     "code3": "DMA",
     "num": "212"
+  },
+  "DOMINICA": {
+    "normal": "DOMINICAN REPUBLIC",
+    "name": "多米尼加",
+    "code": "DO",
+    "code3": "DOM",
+    "num": "214"
   },
   "DOMINICAN REPUBLIC": {
     "normal": "DOMINICAN REPUBLIC",
@@ -838,6 +873,13 @@
     "code": "FO",
     "code3": "FRO",
     "num": "234"
+  },
+  "FIJI": {
+    "normal": "FIJI",
+    "name": "斐济",
+    "code": "FJ",
+    "code3": "FJI",
+    "num": "242"
   },
   "FIJI ISLANDS": {
     "normal": "FIJI",
@@ -1301,6 +1343,13 @@
     "code3": "KIR",
     "num": "296"
   },
+  "KOREA DEMOCRATIC PEOPLE S REPUBLIC OF": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
   "KOREA DEMOCRATIC PEOPLES REP OF": {
     "normal": "NORTH KOREA",
     "name": "朝鲜",
@@ -1328,6 +1377,13 @@
     "code": "KG",
     "code3": "KGZ",
     "num": "417"
+  },
+  "LAO PEOPLE S DEMOCRATIC REPUBLIC": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
   },
   "LAO PEOPLES DEMOCRATIC REPUBLIC": {
     "normal": "LAOS",
@@ -1399,6 +1455,13 @@
     "code3": "LBY",
     "num": "434"
   },
+  "LIBYAN ARAB REPUBLIC": {
+    "normal": "LIBYA",
+    "name": "利比亚",
+    "code": "LY",
+    "code3": "LBY",
+    "num": "434"
+  },
   "LIECHTENSTEIN": {
     "normal": "LIECHTENSTEIN",
     "name": "列支敦士登",
@@ -1455,6 +1518,13 @@
     "code3": "MKD",
     "num": "807"
   },
+  "MACEDONIA THE FORMER YUGOSLAV REPUBLIC OF": {
+    "normal": "YUGOSLAVIA",
+    "name": "南斯拉夫",
+    "code": "YU",
+    "code3": "YUG",
+    "num": "891"
+  },
   "MADAGASCAR": {
     "normal": "MADAGASCAR",
     "name": "马达加斯加",
@@ -1489,6 +1559,13 @@
     "code": "MY",
     "code3": "MYS",
     "num": "458"
+  },
+  "MALDIVES": {
+    "normal": "MALDIVES",
+    "name": "马尔代夫",
+    "code": "MV",
+    "code3": "MDV",
+    "num": "462"
   },
   "MALDIVES ISLANDS": {
     "normal": "MALDIVES",
@@ -1588,6 +1665,13 @@
     "code3": "MDA",
     "num": "498"
   },
+  "MOLDOVA REPUBLIC OF": {
+    "normal": "MOLDOVA",
+    "name": "摩尔多瓦",
+    "code": "MD",
+    "code3": "MDA",
+    "num": "498"
+  },
   "MONACO": {
     "normal": "MONACO",
     "name": "摩纳哥",
@@ -1678,6 +1762,13 @@
     "code": "NL",
     "code3": "NLD",
     "num": "528"
+  },
+  "NETHERLANDS ANTILLES": {
+    "normal": "NETHERLANDS ANTILLES",
+    "name": "荷属安的列斯",
+    "code": "AN",
+    "code3": "ANT",
+    "num": "530"
   },
   "NEW CALEDONIA": {
     "normal": "NEW CALEDONIA",
@@ -1820,6 +1911,13 @@
     "num": "585"
   },
   "PALESTINE": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
+  "PALESTINE STATE": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
     "code": "PS",
@@ -2169,6 +2267,13 @@
     "code3": "SYR",
     "num": "760"
   },
+  "SLOVAK REPUBLIC": {
+    "normal": "SLOVAKIA",
+    "name": "斯洛伐克",
+    "code": "SK",
+    "code3": "SVK",
+    "num": "703"
+  },
   "SLOVAKIA": {
     "normal": "SLOVAKIA",
     "name": "斯洛伐克",
@@ -2246,7 +2351,21 @@
     "code3": "SHN",
     "num": "654"
   },
+  "ST HELENA ASCENSION ISLAND": {
+    "normal": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+    "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+    "code": "SH",
+    "code3": "SHN",
+    "num": "654"
+  },
   "ST KITTS NEVIS": {
+    "normal": "SAINT KITTS AND NEVIS",
+    "name": "圣基茨和尼维斯",
+    "code": "KN",
+    "code3": "KNA",
+    "num": "659"
+  },
+  "ST KITTS NEVIS ANGUILLA": {
     "normal": "SAINT KITTS AND NEVIS",
     "name": "圣基茨和尼维斯",
     "code": "KN",
@@ -2266,6 +2385,13 @@
     "code": "PM",
     "code3": "SPM",
     "num": "666"
+  },
+  "ST VINCENT": {
+    "normal": "SAINT VINCENT AND THE GRENADINES",
+    "name": "圣文森特和格林纳丁斯",
+    "code": "VC",
+    "code3": "VCT",
+    "num": "670"
   },
   "ST VINCENT NORTHERN GRENADINES": {
     "normal": "SAINT VINCENT AND THE GRENADINES",
@@ -2463,6 +2589,13 @@
     "code3": "TTO",
     "num": "780"
   },
+  "TRINIDAD TOBAGO": {
+    "normal": "TRINIDAD AND TOBAGO",
+    "name": "特立尼达和多巴哥",
+    "code": "TT",
+    "code3": "TTO",
+    "num": "780"
+  },
   "TRINIDAD Y TOBAGO": {
     "normal": "TRINIDAD AND TOBAGO",
     "name": "特立尼达和多巴哥",
@@ -2506,6 +2639,13 @@
     "num": "795"
   },
   "TURKS AND CAICOS ISLANDS": {
+    "normal": "TURKS AND CAICOS ISLANDS",
+    "name": "特克斯和凯科斯群岛",
+    "code": "TC",
+    "code3": "TCA",
+    "num": "796"
+  },
+  "TURKS CAICOS ISLANDS": {
     "normal": "TURKS AND CAICOS ISLANDS",
     "name": "特克斯和凯科斯群岛",
     "code": "TC",
@@ -2582,6 +2722,13 @@
     "code3": "URY",
     "num": "858"
   },
+  "US VIRGIN ISLANDS": {
+    "normal": "VIRGIN ISLANDS (U.S.)",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
+  },
   "UZBEKISTAN": {
     "normal": "UZBEKISTAN",
     "name": "乌兹别克斯坦",
@@ -2625,6 +2772,13 @@
     "num": "704"
   },
   "VIETNAM": {
+    "normal": "VIETNAM",
+    "name": "越南",
+    "code": "VN",
+    "code3": "VNM",
+    "num": "704"
+  },
+  "VIETNAM DEMOCRATIC REP OF": {
     "normal": "VIETNAM",
     "name": "越南",
     "code": "VN",
@@ -2681,6 +2835,13 @@
     "num": "882"
   },
   "YEMEN": {
+    "normal": "YEMEN",
+    "name": "也门",
+    "code": "YE",
+    "code3": "YEM",
+    "num": "887"
+  },
+  "YEMEN DEMOCRATIC": {
     "normal": "YEMEN",
     "name": "也门",
     "code": "YE",
