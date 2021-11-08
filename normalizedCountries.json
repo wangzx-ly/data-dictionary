@@ -258,6 +258,13 @@
     "code3": "PRT",
     "num": "620"
   },
+  "BA BOSNIA AND": {
+    "normal": "BOSNIA AND HERZEGOVINA",
+    "name": "波黑",
+    "code": "BA",
+    "code3": "BIH",
+    "num": "070"
+  },
   "BAHAMAS": {
     "normal": "BAHAMAS",
     "name": "巴哈马",
@@ -390,6 +397,13 @@
     "code": "BT",
     "code3": "BTN",
     "num": "064"
+  },
+  "BI BURUNDI": {
+    "normal": "BURUNDI",
+    "name": "布隆迪",
+    "code": "BI",
+    "code3": "BDI",
+    "num": "108"
   },
   "BIELORRUSIA": {
     "normal": "BELARUS",
@@ -558,6 +572,13 @@
     "code": "BW",
     "code3": "BWA",
     "num": "072"
+  },
+  "BY BELARUS": {
+    "normal": "BELARUS",
+    "name": "白俄罗斯",
+    "code": "BY",
+    "code3": "BLR",
+    "num": "112"
   },
   "BZ BELIZE": {
     "normal": "BELIZE",
@@ -1132,6 +1153,13 @@
     "code": "GQ",
     "code3": "GNQ",
     "num": "226"
+  },
+  "ER ERITREA": {
+    "normal": "ERITREA",
+    "name": "厄立特里亚",
+    "code": "ER",
+    "code3": "ERI",
+    "num": "232"
   },
   "ERITREA": {
     "normal": "ERITREA",
@@ -1966,6 +1994,13 @@
     "code3": "KIR",
     "num": "296"
   },
+  "KM COMOROS": {
+    "normal": "COMOROS",
+    "name": "科摩罗",
+    "code": "KM",
+    "code3": "COM",
+    "num": "174"
+  },
   "KN SAINT KITTS AND NEVIS": {
     "normal": "SAINT KITTS AND NEVIS",
     "name": "圣基茨和尼维斯",
@@ -2379,6 +2414,13 @@
     "code3": "MYT",
     "num": "175"
   },
+  "MD MOLDOVA": {
+    "normal": "MOLDOVA",
+    "name": "摩尔多瓦",
+    "code": "MD",
+    "code3": "MDA",
+    "num": "498"
+  },
   "MEXICO": {
     "normal": "MEXICO",
     "name": "墨西哥",
@@ -2749,6 +2791,13 @@
     "code": "NO",
     "code3": "NOR",
     "num": "578"
+  },
+  "NP NEPAL": {
+    "normal": "NEPAL",
+    "name": "尼泊尔",
+    "code": "NP",
+    "code3": "NPL",
+    "num": "524"
   },
   "NUEVA ZELANDA": {
     "normal": "NEW ZEALAND",
@@ -3212,6 +3261,13 @@
     "code3": "SAU",
     "num": "682"
   },
+  "SB SOLOMON ISLANDS": {
+    "normal": "SOLOMON ISLANDS",
+    "name": "所罗门群岛",
+    "code": "SB",
+    "code3": "SLB",
+    "num": "090"
+  },
   "SC SEYCHELLES": {
     "normal": "SEYCHELLES",
     "name": "塞舌尔",
@@ -3576,6 +3632,13 @@
     "code3": "CHE",
     "num": "756"
   },
+  "SY SYRIA": {
+    "normal": "SYRIA",
+    "name": "叙利亚",
+    "code": "SY",
+    "code3": "SYR",
+    "num": "760"
+  },
   "SYRIA": {
     "normal": "SYRIA",
     "name": "叙利亚",
@@ -3687,6 +3750,13 @@
     "code": "TN",
     "code3": "TUN",
     "num": "788"
+  },
+  "TO TONGA": {
+    "normal": "TONGA",
+    "name": "汤加",
+    "code": "TO",
+    "code3": "TON",
+    "num": "776"
   },
   "TOGO": {
     "normal": "TOGO",
@@ -4053,6 +4123,13 @@
     "num": "732"
   },
   "WESTERN SAMOA": {
+    "normal": "SAMOA",
+    "name": "萨摩亚",
+    "code": "WS",
+    "code3": "WSM",
+    "num": "882"
+  },
+  "WS SAMOA": {
     "normal": "SAMOA",
     "name": "萨摩亚",
     "code": "WS",
