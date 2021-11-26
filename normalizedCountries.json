@@ -426,6 +426,13 @@
     "code3": "BEN",
     "num": "204"
   },
+  "BM BERMUDA": {
+    "normal": "BERMUDA",
+    "name": "百慕大",
+    "code": "BM",
+    "code3": "BMU",
+    "num": "060"
+  },
   "BN BRUNEI": {
     "normal": "BRUNEI",
     "name": "文莱",
@@ -2435,6 +2442,13 @@
     "code3": "MYT",
     "num": "175"
   },
+  "MC MONACO": {
+    "normal": "MONACO",
+    "name": "摩纳哥",
+    "code": "MC",
+    "code3": "MCO",
+    "num": "492"
+  },
   "MD MOLDOVA": {
     "normal": "MOLDOVA",
     "name": "摩尔多瓦",
@@ -2462,6 +2476,13 @@
     "code": "FM",
     "code3": "FSM",
     "num": "583"
+  },
+  "MK MACEDONIA": {
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "ML MALI": {
     "normal": "MALI",
@@ -3779,6 +3800,13 @@
     "code3": "TLS",
     "num": "626"
   },
+  "TJ TAJIKISTAN": {
+    "normal": "TAJIKISTAN",
+    "name": "塔吉克斯坦",
+    "code": "TJ",
+    "code3": "TJK",
+    "num": "762"
+  },
   "TM TURKMENSTAN": {
     "normal": "TURKMENISTAN",
     "name": "土库曼斯坦",
@@ -3820,6 +3848,13 @@
     "code": "TO",
     "code3": "TON",
     "num": "776"
+  },
+  "TP EAST TIMOR": {
+    "normal": "TIMOR-LESTE",
+    "name": "东帝汶",
+    "code": "TL",
+    "code3": "TLS",
+    "num": "626"
   },
   "TR TURKEY": {
     "normal": "TURKEY",
@@ -4157,6 +4192,13 @@
     "code3": "VNM",
     "num": "704"
   },
+  "VU VANUATU": {
+    "normal": "VANUATU",
+    "name": "瓦努阿图",
+    "code": "VU",
+    "code3": "VUT",
+    "num": "548"
+  },
   "WALLIS FUTUNA": {
     "normal": "WALLIS AND FUTUNA",
     "name": "瓦利斯和富图纳",
@@ -4177,6 +4219,13 @@
     "code": "WS",
     "code3": "WSM",
     "num": "882"
+  },
+  "WF WALLIS AND FUTUNA": {
+    "normal": "WALLIS AND FUTUNA",
+    "name": "瓦利斯和富图纳",
+    "code": "WF",
+    "code3": "WLF",
+    "num": "876"
   },
   "WS SAMOA": {
     "normal": "SAMOA",
