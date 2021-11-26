@@ -1455,6 +1455,13 @@
     "code3": "GHA",
     "num": "288"
   },
+  "GI GIBRALTAR": {
+    "normal": "GIBRALTAR",
+    "name": "直布罗陀",
+    "code": "GI",
+    "code3": "GIB",
+    "num": "292"
+  },
   "GIBRALTAR": {
     "normal": "GIBRALTAR",
     "name": "直布罗陀",
@@ -1749,6 +1756,13 @@
     "code3": "IRQ",
     "num": "368"
   },
+  "IR IRAN": {
+    "normal": "IRAN",
+    "name": "伊朗",
+    "code": "IR",
+    "code3": "IRN",
+    "num": "364"
+  },
   "IRAN": {
     "normal": "IRAN",
     "name": "伊朗",
@@ -1979,6 +1993,13 @@
     "code": "KE",
     "code3": "KEN",
     "num": "404"
+  },
+  "KG KYRGYZSTAN": {
+    "normal": "KYRGYZSTAN",
+    "name": "吉尔吉斯斯坦",
+    "code": "KG",
+    "code3": "KGZ",
+    "num": "417"
   },
   "KH CAMBODIA": {
     "normal": "CAMBODIA",
@@ -2974,6 +2995,13 @@
     "code3": "POL",
     "num": "616"
   },
+  "PM SAINT PIERRE AND MIQUELON": {
+    "normal": "SAINT PIERRE AND MIQUELON",
+    "name": "圣皮埃尔和密克隆",
+    "code": "PM",
+    "code3": "SPM",
+    "num": "666"
+  },
   "POLAND": {
     "normal": "POLAND",
     "name": "波兰",
@@ -3408,6 +3436,13 @@
     "code3": "SVN",
     "num": "705"
   },
+  "SM SAN MARINO": {
+    "normal": "SAN MARINO",
+    "name": "圣马力诺",
+    "code": "SM",
+    "code3": "SMR",
+    "num": "674"
+  },
   "SN SENEGAL": {
     "normal": "SENEGAL",
     "name": "塞内加尔",
@@ -3526,6 +3561,13 @@
     "code": "PM",
     "code3": "SPM",
     "num": "666"
+  },
+  "ST SAO TOME AND PRINCIPE": {
+    "normal": "SAO TOME AND PRINCIPE",
+    "name": "圣多美和普林西比",
+    "code": "ST",
+    "code3": "STP",
+    "num": "678"
   },
   "ST VINCENT": {
     "normal": "SAINT VINCENT AND THE GRENADINES",
@@ -4016,6 +4058,13 @@
     "code": "VA",
     "code3": "VAT",
     "num": "336"
+  },
+  "VC SAINT VINCENT AND GRENADINES": {
+    "normal": "SAINT VINCENT AND THE GRENADINES",
+    "name": "圣文森特和格林纳丁斯",
+    "code": "VC",
+    "code3": "VCT",
+    "num": "670"
   },
   "VE VENEZUELA": {
     "normal": "VENEZUELA",
