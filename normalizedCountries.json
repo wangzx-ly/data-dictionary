@@ -2470,6 +2470,13 @@
     "code3": "MDG",
     "num": "450"
   },
+  "MH MARSHALL ISLANDS": {
+    "normal": "MARSHALL ISLANDS",
+    "name": "马绍尔群岛",
+    "code": "MH",
+    "code3": "MHL",
+    "num": "584"
+  },
   "MICRONESIA": {
     "normal": "MICRONESIA",
     "name": "密克罗尼西亚联邦",
@@ -4079,6 +4086,13 @@
     "code": "UZ",
     "code3": "UZB",
     "num": "860"
+  },
+  "VA VATICAN": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
   },
   "VANUATU": {
     "normal": "VANUATU",
