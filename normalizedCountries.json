@@ -2596,6 +2596,13 @@
     "code3": "MRT",
     "num": "478"
   },
+  "MS MONTSERRAT": {
+    "normal": "MONTSERRAT",
+    "name": "蒙特塞拉特",
+    "code": "MS",
+    "code3": "MSR",
+    "num": "500"
+  },
   "MT MALTA": {
     "normal": "MALTA",
     "name": "马耳他",
