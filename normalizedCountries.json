@@ -1301,6 +1301,13 @@
     "code3": "ETH",
     "num": "231"
   },
+  "FAEROE ISLANDS": {
+    "normal": "FAROE ISLANDS",
+    "name": "法罗群岛",
+    "code": "FO",
+    "code3": "FRO",
+    "num": "234"
+  },
   "FALKLAND ISLANDS": {
     "normal": "FALKLAND ISLANDS (MALVINAS)",
     "name": "福克兰群岛（马尔维纳斯）",
@@ -1435,6 +1442,13 @@
     "num": "250"
   },
   "FRENCH GUIANA": {
+    "normal": "FRENCH GUIANA",
+    "name": "法属圭亚那",
+    "code": "GF",
+    "code3": "GUF",
+    "num": "254"
+  },
+  "FRENCH GUYANA": {
     "normal": "FRENCH GUIANA",
     "name": "法属圭亚那",
     "code": "GF",
@@ -1715,6 +1729,13 @@
     "num": "332"
   },
   "HEARD ISLAND AND MCDONALD ISLANDS": {
+    "normal": "HEARD ISLAND AND MCDONALD ISLANDS",
+    "name": "赫德岛和麦克唐纳群岛",
+    "code": "HM",
+    "code3": "HMD",
+    "num": "334"
+  },
+  "HEARD MACDONALD ISLANDS": {
     "normal": "HEARD ISLAND AND MCDONALD ISLANDS",
     "name": "赫德岛和麦克唐纳群岛",
     "code": "HM",
@@ -2414,6 +2435,13 @@
     "code3": "MAR",
     "num": "504"
   },
+  "MACAO ISLANDS": {
+    "normal": "CHINA MACAO",
+    "name": "中国澳门",
+    "code": "MO",
+    "code3": "MAC",
+    "num": "446"
+  },
   "MACAU": {
     "normal": "CHINA MACAO",
     "name": "中国澳门",
@@ -2770,6 +2798,13 @@
     "code": "MZ",
     "code3": "MOZ",
     "num": "508"
+  },
+  "N SUDAN SUDAN": {
+    "normal": "SUDAN",
+    "name": "苏丹",
+    "code": "SD",
+    "code3": "SDN",
+    "num": "729"
   },
   "NA NAMIBIA": {
     "normal": "NAMIBIA",
@@ -4052,6 +4087,13 @@
     "code3": "TKL",
     "num": "772"
   },
+  "TOKELAU ISLAND": {
+    "normal": "TOKELAU",
+    "name": "托克劳",
+    "code": "TK",
+    "code3": "TKL",
+    "num": "772"
+  },
   "TONGA": {
     "normal": "TONGA",
     "name": "汤加",
@@ -4248,6 +4290,13 @@
     "code3": "USA",
     "num": "840"
   },
+  "UNITED STATES MINOR OUTLAYING ISLANDS": {
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
+    "code": "UM",
+    "code3": "UMI",
+    "num": "581"
+  },
   "UNITED STATES OUTLYING ISLANDS": {
     "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
     "name": "美国本土外小岛屿",
@@ -4319,6 +4368,13 @@
     "num": "548"
   },
   "VATICAN CITY HOLY SEE": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
+  },
+  "VATICAN CITY STATE HOLY SEE": {
     "normal": "VATICAN CITY (HOLY SEE)",
     "name": "梵蒂冈",
     "code": "VA",
