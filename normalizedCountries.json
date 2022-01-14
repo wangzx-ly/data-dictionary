@@ -608,6 +608,13 @@
     "code3": "BLR",
     "num": "112"
   },
+  "BYELORUSSIAN SSR": {
+    "normal": "BELARUS",
+    "name": "白俄罗斯",
+    "code": "BY",
+    "code3": "BLR",
+    "num": "112"
+  },
   "BZ BELIZE": {
     "normal": "BELIZE",
     "name": "伯利兹",
@@ -1041,6 +1048,13 @@
     "code": "DE",
     "code3": "DEU",
     "num": "276"
+  },
+  "DEMOCRATIC PEOPLE S REPUBLIC OF KOREA": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
   },
   "DEMOCRATIC REPUBLIC OF THE CONGO": {
     "normal": "CONGO (KINSHASA)",
@@ -2029,6 +2043,13 @@
     "code3": "JOR",
     "num": "400"
   },
+  "JOHNSTON ISLAND": {
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
+    "code": "UM",
+    "code3": "UMI",
+    "num": "581"
+  },
   "JORDAN": {
     "normal": "JORDAN",
     "name": "约旦",
@@ -2072,6 +2093,13 @@
     "num": "398"
   },
   "KAZAKISTAN": {
+    "normal": "KAZAKHSTAN",
+    "name": "哈萨克斯坦",
+    "code": "KZ",
+    "code3": "KAZ",
+    "num": "398"
+  },
+  "KAZAKSTAN": {
     "normal": "KAZAKHSTAN",
     "name": "哈萨克斯坦",
     "code": "KZ",
@@ -2133,6 +2161,13 @@
     "code": "KN",
     "code3": "KNA",
     "num": "659"
+  },
+  "KOREA DEMOCRATIC PEOPLE S REP OF": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
   },
   "KOREA DEMOCRATIC PEOPLE S REPUBLIC OF": {
     "normal": "NORTH KOREA",
@@ -2324,6 +2359,13 @@
     "num": "430"
   },
   "LIBYA": {
+    "normal": "LIBYA",
+    "name": "利比亚",
+    "code": "LY",
+    "code3": "LBY",
+    "num": "434"
+  },
+  "LIBYAN ARAB JAMAHIRIYA": {
     "normal": "LIBYA",
     "name": "利比亚",
     "code": "LY",
@@ -2611,6 +2653,13 @@
     "num": "584"
   },
   "MICRONESIA": {
+    "normal": "MICRONESIA",
+    "name": "密克罗尼西亚联邦",
+    "code": "FM",
+    "code3": "FSM",
+    "num": "583"
+  },
+  "MICRONESIA FEDERATED STATES OF": {
     "normal": "MICRONESIA",
     "name": "密克罗尼西亚联邦",
     "code": "FM",
@@ -3268,12 +3317,26 @@
     "code3": "GBR",
     "num": "826"
   },
+  "REPUBLIC OF KOREA": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
   "REPUBLIC OF MACEDONIA": {
     "normal": "SOUTH KOREA",
     "name": "韩国",
     "code": "KR",
     "code3": "KOR",
     "num": "410"
+  },
+  "REPUBLIC OF MOLDOVA": {
+    "normal": "MOLDOVA",
+    "name": "摩尔多瓦",
+    "code": "MD",
+    "code3": "MDA",
+    "num": "498"
   },
   "REPUBLICA CHECA": {
     "normal": "CZECHIA",
@@ -3540,6 +3603,13 @@
     "code": "RS",
     "code3": "SRB",
     "num": "688"
+  },
+  "SERBIA AND MONTENEGRO": {
+    "normal": "SERBIA AND MONTENEGRO",
+    "name": "塞尔维亚和黑山",
+    "code": "CS",
+    "code3": "SCG",
+    "num": "891"
   },
   "SERVIA": {
     "normal": "SERBIA",
@@ -3919,6 +3989,13 @@
     "code3": "SYR",
     "num": "760"
   },
+  "SYRIAN ARAB REPUBLIC": {
+    "normal": "SYRIA",
+    "name": "叙利亚",
+    "code": "SY",
+    "code3": "SYR",
+    "num": "760"
+  },
   "SZ SWAZILAND": {
     "normal": "ESWATINI",
     "name": "斯威士兰",
@@ -4016,6 +4093,13 @@
     "code": "TH",
     "code3": "THA",
     "num": "764"
+  },
+  "THE FORMER YUGOSLAV REP MACEDONIA": {
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "THE IVORY COAST": {
     "normal": "CÔTE D'IVOIRE",
@@ -4276,6 +4360,13 @@
     "code3": "GBR",
     "num": "826"
   },
+  "UNITED REPUBLIC OF TANZANIA": {
+    "normal": "TANZANIA",
+    "name": "坦桑尼亚",
+    "code": "TZ",
+    "code3": "TZA",
+    "num": "834"
+  },
   "UNITED STATES": {
     "normal": "UNITED STATES",
     "name": "美国",
@@ -4296,6 +4387,13 @@
     "code": "UM",
     "code3": "UMI",
     "num": "581"
+  },
+  "UNITED STATES VIRGIN ISLANDS": {
+    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "URUGAY": {
     "normal": "URUGUAY",
@@ -4569,6 +4667,13 @@
     "code": "ZA",
     "code3": "ZAF",
     "num": "710"
+  },
+  "ZAIRE": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
   },
   "ZAMBIA": {
     "normal": "ZAMBIA",
