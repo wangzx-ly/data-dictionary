@@ -1035,6 +1035,13 @@
     "code3": "COL",
     "num": "170"
   },
+  "COLOMBIA CO": {
+    "normal": "COLOMBIA",
+    "name": "哥伦比亚",
+    "code": "CO",
+    "code3": "COL",
+    "num": "170"
+  },
   "COMOROS": {
     "normal": "COMOROS",
     "name": "科摩罗",
@@ -2169,6 +2176,13 @@
     "code3": "ISL",
     "num": "352"
   },
+  "ICELAND IS": {
+    "normal": "ICELAND",
+    "name": "冰岛",
+    "code": "IS",
+    "code3": "ISL",
+    "num": "352"
+  },
   "ID INDONESIA": {
     "normal": "INDONESIA",
     "name": "印度尼西亚",
@@ -2567,6 +2581,13 @@
     "code": "KH",
     "code3": "KHM",
     "num": "116"
+  },
+  "KIRGHIZIA": {
+    "normal": "KYRGYZSTAN",
+    "name": "吉尔吉斯斯坦",
+    "code": "KG",
+    "code3": "KGZ",
+    "num": "417"
   },
   "KIRIBATI": {
     "normal": "KIRIBATI",
@@ -5844,6 +5865,13 @@
     "code3": "BLR",
     "num": "112"
   },
+  "БЕЛИЗ": {
+    "normal": "BELIZE",
+    "name": "伯利兹",
+    "code": "BZ",
+    "code3": "BLZ",
+    "num": "084"
+  },
   "БОЛГАРИЯ": {
     "normal": "BULGARIA",
     "name": "保加利亚",
@@ -6341,6 +6369,13 @@
     "code3": "MMR",
     "num": "104"
   },
+  "НЕПАЛ": {
+    "normal": "NEPAL",
+    "name": "尼泊尔",
+    "code": "NP",
+    "code3": "NPL",
+    "num": "524"
+  },
   "НИГЕРИЯ": {
     "normal": "NIGERIA",
     "name": "尼日利亚",
@@ -6635,6 +6670,13 @@
     "code3": "UKR",
     "num": "804"
   },
+  "УРУГВАЙ": {
+    "normal": "URUGUAY",
+    "name": "乌拉圭",
+    "code": "UY",
+    "code3": "URY",
+    "num": "858"
+  },
   "ФИЛИППИНЫ": {
     "normal": "PHILIPPINES",
     "name": "菲律宾",
@@ -6718,6 +6760,13 @@
     "code": "EC",
     "code3": "ECU",
     "num": "218"
+  },
+  "ЭЛЬ САЛЬВАДОР": {
+    "normal": "EL SALVADOR",
+    "name": "萨尔瓦多",
+    "code": "SV",
+    "code3": "SLV",
+    "num": "222"
   },
   "ЭСТОНИЯ": {
     "normal": "ESTONIA",
