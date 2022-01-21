@@ -699,6 +699,13 @@
     "code3": "VGB",
     "num": "092"
   },
+  "BRITISHVIRGIN ISLANDS": {
+    "normal": "VIRGIN ISLANDS (BRITISH)",
+    "name": "英属维尔京群岛",
+    "code": "VG",
+    "code3": "VGB",
+    "num": "092"
+  },
   "BRUNEI": {
     "normal": "BRUNEI",
     "name": "文莱",
@@ -994,11 +1001,11 @@
     "num": "156"
   },
   "CHINA CN": {
-    "normal": "",
-    "name": "",
-    "code": "",
-    "code3": "",
-    "num": ""
+    "normal": "CHINA",
+    "name": "中国",
+    "code": "CN",
+    "code3": "CHN",
+    "num": "156"
   },
   "CHINA HONG KONG SAR": {
     "normal": "CHINA HONGKONG",
@@ -1791,6 +1798,13 @@
     "code3": "FJI",
     "num": "242"
   },
+  "FIJI ISLAND": {
+    "normal": "FIJI",
+    "name": "斐济",
+    "code": "FJ",
+    "code3": "FJI",
+    "num": "242"
+  },
   "FIJI ISLANDS": {
     "normal": "FIJI",
     "name": "斐济",
@@ -2162,6 +2176,13 @@
     "code3": "GUM",
     "num": "316"
   },
+  "GUAM GUAM": {
+    "normal": "GUAM",
+    "name": "关岛",
+    "code": "GU",
+    "code3": "GUM",
+    "num": "316"
+  },
   "GUATEMALA": {
     "normal": "GUATEMALA",
     "name": "危地马拉",
@@ -2281,6 +2302,13 @@
     "code3": "VAT",
     "num": "336"
   },
+  "HON GKONG": {
+    "normal": "CHINA HONGKONG",
+    "name": "中国香港",
+    "code": "HK",
+    "code3": "HKG",
+    "num": "344"
+  },
   "HONDURAS": {
     "normal": "HONDURAS",
     "name": "洪都拉斯",
@@ -2303,6 +2331,13 @@
     "num": "344"
   },
   "HONG KONG SPECIAL ADMINISTRATIVE REGION OF CHINA": {
+    "normal": "CHINA HONGKONG",
+    "name": "中国香港",
+    "code": "HK",
+    "code3": "HKG",
+    "num": "344"
+  },
+  "HONGKONG": {
     "normal": "CHINA HONGKONG",
     "name": "中国香港",
     "code": "HK",
@@ -2806,6 +2841,13 @@
     "code3": "KNA",
     "num": "659"
   },
+  "KOREA": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
   "KOREA DEMOCRATIC PEOPLE S REP OF": {
     "normal": "NORTH KOREA",
     "name": "朝鲜",
@@ -2868,6 +2910,13 @@
     "code": "KR",
     "code3": "KOR",
     "num": "410"
+  },
+  "KOSOVA": {
+    "normal": "KOSOVO",
+    "name": "科索沃",
+    "code": "XK",
+    "code3": "XKS",
+    "num": ""
   },
   "KOSOVO": {
     "normal": "KOSOVO",
@@ -3933,6 +3982,13 @@
     "code3": "PRK",
     "num": "408"
   },
+  "NORTH KOREA DEMOC PEOPLE S REP OF": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
   "NORTH MACEDONIA": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
@@ -4990,6 +5046,13 @@
     "code3": "KOR",
     "num": "410"
   },
+  "SOUTH KOREA REPUBLIC OF": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
   "SOUTH SUDAN": {
     "normal": "SOUTH SUDAN",
     "name": "南苏丹",
@@ -5046,6 +5109,13 @@
     "code3": "SHN",
     "num": "654"
   },
+  "ST HELENA AND ASCENSION ISLAND": {
+    "normal": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+    "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+    "code": "SH",
+    "code3": "SHN",
+    "num": "654"
+  },
   "ST HELENA ASCENSION ISLAND": {
     "normal": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
     "name": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
@@ -5089,6 +5159,13 @@
     "num": "678"
   },
   "ST VINCENT": {
+    "normal": "SAINT VINCENT AND THE GRENADINES",
+    "name": "圣文森特和格林纳丁斯",
+    "code": "VC",
+    "code3": "VCT",
+    "num": "670"
+  },
+  "ST VINCENT AND THE GRENADINES": {
     "normal": "SAINT VINCENT AND THE GRENADINES",
     "name": "圣文森特和格林纳丁斯",
     "code": "VC",
@@ -5166,6 +5243,13 @@
     "num": "222"
   },
   "SVALBARD AND JAN MAY": {
+    "normal": "SVALBARD AND JAN MAYEN",
+    "name": "斯瓦尔巴和扬马延",
+    "code": "SJ",
+    "code3": "SJM",
+    "num": "744"
+  },
+  "SVALBARD AND JAM MAYEN ISLANDS": {
     "normal": "SVALBARD AND JAN MAYEN",
     "name": "斯瓦尔巴和扬马延",
     "code": "SJ",
