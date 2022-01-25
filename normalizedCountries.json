@@ -762,6 +762,13 @@
     "code3": "BDI",
     "num": "108"
   },
+  "BUTAN": {
+    "normal": "BHUTAN",
+    "name": "不丹",
+    "code": "BT",
+    "code3": "BTN",
+    "num": "064"
+  },
   "BW BOTSWANA": {
     "normal": "BOTSWANA",
     "name": "博茨瓦纳",
@@ -5242,14 +5249,14 @@
     "code3": "SLV",
     "num": "222"
   },
-  "SVALBARD AND JAN MAY": {
+  "SVALBARD AND JAM MAYEN ISLANDS": {
     "normal": "SVALBARD AND JAN MAYEN",
     "name": "斯瓦尔巴和扬马延",
     "code": "SJ",
     "code3": "SJM",
     "num": "744"
   },
-  "SVALBARD AND JAM MAYEN ISLANDS": {
+  "SVALBARD AND JAN MAY": {
     "normal": "SVALBARD AND JAN MAYEN",
     "name": "斯瓦尔巴和扬马延",
     "code": "SJ",
