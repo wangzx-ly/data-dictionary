@@ -7559,6 +7559,13 @@
     "code3": "DZA",
     "num": "012"
   },
+  "АМЕРИКАНСКОЕ САМОА": {
+    "normal": "AMERICAN SAMOA",
+    "name": "美属萨摩亚",
+    "code": "AS",
+    "code3": "ASM",
+    "num": "016"
+  },
   "АНГИЛЬЯ": {
     "normal": "ANGUILLA",
     "name": "安圭拉",
@@ -7741,12 +7748,26 @@
     "code3": "GAB",
     "num": "266"
   },
+  "ГАИТИ": {
+    "normal": "HAITI",
+    "name": "海地",
+    "code": "HT",
+    "code3": "HTI",
+    "num": "332"
+  },
   "ГАЙАНА": {
     "normal": "GUYANA",
     "name": "圭亚那",
     "code": "GY",
     "code3": "GUY",
     "num": "328"
+  },
+  "ГАМБИЯ": {
+    "normal": "GAMBIA",
+    "name": "冈比亚",
+    "code": "GM",
+    "code3": "GMB",
+    "num": "270"
   },
   "ГАНА": {
     "normal": "GHANA",
@@ -7824,6 +7845,13 @@
     "code": "DK",
     "code3": "DNK",
     "num": "208"
+  },
+  "ДЖИБУТИ": {
+    "normal": "DJIBOUTI",
+    "name": "吉布提",
+    "code": "DJ",
+    "code3": "DJI",
+    "num": "262"
   },
   "ДОМИНИКА": {
     "normal": "DOMINICA",
@@ -8105,6 +8133,13 @@
     "code3": "LAO",
     "num": "418"
   },
+  "ЛАОССКАЯ НАРОДНО ДЕМОКРАТИЧЕСК": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
+  },
   "ЛАОССКАЯ НАРОДНО ДЕМОКРАТИЧЕСКАЯ РЕСПУБЛИКА": {
     "normal": "LAOS",
     "name": "老挝",
@@ -8329,6 +8364,13 @@
     "code3": "NZL",
     "num": "554"
   },
+  "НОВАЯ КАЛЕДОНИЯ": {
+    "normal": "NEW CALEDONIA",
+    "name": "新喀里多尼亚",
+    "code": "NC",
+    "code3": "NCL",
+    "num": "540"
+  },
   "НОРВЕГИЯ": {
     "normal": "NORWAY",
     "name": "挪威",
@@ -8462,6 +8504,13 @@
     "code3": "ROU",
     "num": "642"
   },
+  "САМОА": {
+    "normal": "SAMOA",
+    "name": "萨摩亚",
+    "code": "WS",
+    "code3": "WSM",
+    "num": "882"
+  },
   "САН МАРИНО": {
     "normal": "SAN MARINO",
     "name": "圣马力诺",
@@ -8483,6 +8532,13 @@
     "code3": "SHN",
     "num": "654"
   },
+  "СЕВЕРНАЯ МАКЕДОНИЯ": {
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
+  },
   "СЕЙШЕЛЫ": {
     "normal": "SEYCHELLES",
     "name": "塞舌尔",
@@ -8490,12 +8546,26 @@
     "code3": "SYC",
     "num": "690"
   },
+  "СЕН МАРТЕН": {
+    "normal": "SINT MAARTEN (DUTCH PART)",
+    "name": "荷属圣马丁",
+    "code": "SX",
+    "code3": "SXM",
+    "num": "534"
+  },
   "СЕНЕГАЛ": {
     "normal": "SENEGAL",
     "name": "塞内加尔",
     "code": "SN",
     "code3": "SEN",
     "num": "686"
+  },
+  "СЕНТ КИТС И НЕВИС": {
+    "normal": "SAINT KITTS AND NEVIS",
+    "name": "圣基茨和尼维斯",
+    "code": "KN",
+    "code3": "KNA",
+    "num": "659"
   },
   "СЕРБИЯ": {
     "normal": "SERBIA",
@@ -8559,6 +8629,13 @@
     "code": "SO",
     "code3": "SOM",
     "num": "706"
+  },
+  "СУДАН": {
+    "normal": "SUDAN",
+    "name": "苏丹",
+    "code": "SD",
+    "code3": "SDN",
+    "num": "729"
   },
   "США": {
     "normal": "UNITED STATES",
@@ -8707,12 +8784,33 @@
     "code3": "FRA",
     "num": "250"
   },
+  "ФРАНЦУЗСКАЯ ГВИАНА": {
+    "normal": "FRENCH GUIANA",
+    "name": "法属圭亚那",
+    "code": "GF",
+    "code3": "GUF",
+    "num": "254"
+  },
+  "ФРАНЦУЗСКАЯ ПОЛИНЕЗИЯ": {
+    "normal": "FRENCH POLYNESIA",
+    "name": "法属波利尼西亚",
+    "code": "PF",
+    "code3": "PYF",
+    "num": "258"
+  },
   "ХОРВАТИЯ": {
     "normal": "CROATIA",
     "name": "克罗地亚",
     "code": "HR",
     "code3": "HRV",
     "num": "191"
+  },
+  "ЦЕНТРАЛЬНО АФРИКАНСКАЯ РЕСПУБЛ": {
+    "normal": "CENTRAL AFRICAN REPUBLIC",
+    "name": "中非",
+    "code": "CF",
+    "code3": "CAF",
+    "num": "140"
   },
   "ЧЕРНОГОРИЯ": {
     "normal": "MONTENEGRO",
@@ -8770,12 +8868,26 @@
     "code3": "ECU",
     "num": "218"
   },
+  "ЭКВАТОРИАЛЬНАЯ ГВИНЕЯ": {
+    "normal": "EQUATORIAL GUINEA",
+    "name": "赤道几内亚",
+    "code": "GQ",
+    "code3": "GNQ",
+    "num": "226"
+  },
   "ЭЛЬ САЛЬВАДОР": {
     "normal": "EL SALVADOR",
     "name": "萨尔瓦多",
     "code": "SV",
     "code3": "SLV",
     "num": "222"
+  },
+  "ЭРИТРЕЯ": {
+    "normal": "ERITREA",
+    "name": "厄立特里亚",
+    "code": "ER",
+    "code3": "ERI",
+    "num": "232"
   },
   "ЭСТОНИЯ": {
     "normal": "ESTONIA",
