@@ -531,6 +531,13 @@
     "code3": "BEN",
     "num": "204"
   },
+  "BENIN REPUBLIC OF": {
+    "normal": "BENIN",
+    "name": "贝宁",
+    "code": "BJ",
+    "code3": "BEN",
+    "num": "204"
+  },
   "BERMUDA": {
     "normal": "BERMUDA",
     "name": "百慕大",
@@ -623,6 +630,13 @@
     "num": "068"
   },
   "BOLIVIA": {
+    "normal": "BOLIVIA",
+    "name": "玻利维亚",
+    "code": "BO",
+    "code3": "BOL",
+    "num": "068"
+  },
+  "BOLIVIA PLURINATIONAL STATE OF": {
     "normal": "BOLIVIA",
     "name": "玻利维亚",
     "code": "BO",
@@ -895,12 +909,26 @@
     "code3": "BEL",
     "num": "056"
   },
+  "C OTE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
   "CA CANADA": {
     "normal": "CANADA",
     "name": "加拿大",
     "code": "CA",
     "code3": "CAN",
     "num": "124"
+  },
+  "CA TE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
   },
   "CABO VERDE": {
     "normal": "CABO VERDE",
@@ -1056,6 +1084,13 @@
     "code3": "CAF",
     "num": "140"
   },
+  "CETE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
   "CF CENTRAL AFRICA REPUBLIC": {
     "normal": "CENTRAL AFRICAN REPUBLIC",
     "name": "中非",
@@ -1113,6 +1148,13 @@
     "num": "156"
   },
   "CHINA HONG KONG SAR": {
+    "normal": "CHINA HONGKONG",
+    "name": "中国香港",
+    "code": "HK",
+    "code3": "HKG",
+    "num": "344"
+  },
+  "CHINA HONG KONG SPECIAL ADMINISTRATIVE REGION": {
     "normal": "CHINA HONGKONG",
     "name": "中国香港",
     "code": "HK",
@@ -1329,6 +1371,13 @@
     "code3": "COD",
     "num": "180"
   },
+  "CONGO DEMOCRATIC REPUBLIC OF THE": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
   "CONGO KINSHASHA": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
@@ -1518,7 +1567,21 @@
     "code3": "CUB",
     "num": "192"
   },
+  "CURA CAO": {
+    "normal": "CURAÇAO",
+    "name": "库拉索",
+    "code": "CW",
+    "code3": "CUW",
+    "num": "531"
+  },
   "CURACAO": {
+    "normal": "CURAÇAO",
+    "name": "库拉索",
+    "code": "CW",
+    "code3": "CUW",
+    "num": "531"
+  },
+  "CURAZAO TERRITORIO HOLANDES DE ULTRAMAR": {
     "normal": "CURAÇAO",
     "name": "库拉索",
     "code": "CW",
@@ -2366,6 +2429,13 @@
     "num": "292"
   },
   "GIBRALTAR": {
+    "normal": "GIBRALTAR",
+    "name": "直布罗陀",
+    "code": "GI",
+    "code3": "GIB",
+    "num": "292"
+  },
+  "GIBRALTAR R U": {
     "normal": "GIBRALTAR",
     "name": "直布罗陀",
     "code": "GI",
@@ -3940,6 +4010,13 @@
     "code3": "MYS",
     "num": "458"
   },
+  "MALDIVAS": {
+    "normal": "MALDIVES",
+    "name": "马尔代夫",
+    "code": "MV",
+    "code3": "MDV",
+    "num": "462"
+  },
   "MALDIVAS ISLAS": {
     "normal": "MALDIVES",
     "name": "马尔代夫",
@@ -4514,6 +4591,13 @@
     "code3": "NCL",
     "num": "540"
   },
+  "NEW GINEA": {
+    "normal": "PAPUA NEW GUINEA",
+    "name": "巴布亚新几内亚",
+    "code": "PG",
+    "code3": "PNG",
+    "num": "598"
+  },
   "NEW ZEALAND": {
     "normal": "NEW ZEALAND",
     "name": "新西兰",
@@ -4724,6 +4808,13 @@
     "code3": "NZL",
     "num": "554"
   },
+  "OCCUPIED PALESTINIAN TERRITORY": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
   "OM OMAN": {
     "normal": "OMAN",
     "name": "阿曼",
@@ -4815,6 +4906,13 @@
     "code3": "PLW",
     "num": "585"
   },
+  "PALESTINA": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
+  },
   "PALESTINE": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
@@ -4830,6 +4928,13 @@
     "num": "275"
   },
   "PANAMA": {
+    "normal": "PANAMA",
+    "name": "巴拿马",
+    "code": "PA",
+    "code3": "PAN",
+    "num": "591"
+  },
+  "PANAMA CHANNEL": {
     "normal": "PANAMA",
     "name": "巴拿马",
     "code": "PA",
@@ -4996,6 +5101,13 @@
     "code": "PL",
     "code3": "POL",
     "num": "616"
+  },
+  "POLINESIA": {
+    "normal": "FRENCH POLYNESIA",
+    "name": "法属波利尼西亚",
+    "code": "PF",
+    "code3": "PYF",
+    "num": "258"
   },
   "POLINESIA FRANCESA": {
     "normal": "FRENCH POLYNESIA",
@@ -5179,6 +5291,13 @@
     "code3": "DOM",
     "num": "214"
   },
+  "REPUBLICA POPULAR DEL CONGO": {
+    "normal": "CONGO (BRAZZAVILLE)",
+    "name": "刚果（布）",
+    "code": "CG",
+    "code3": "COG",
+    "num": "178"
+  },
   "REPUBLICA SEYCHELLES": {
     "normal": "SEYCHELLES",
     "name": "塞舌尔",
@@ -5334,6 +5453,13 @@
     "num": "646"
   },
   "RWANDA": {
+    "normal": "RWANDA",
+    "name": "卢旺达",
+    "code": "RW",
+    "code3": "RWA",
+    "num": "646"
+  },
+  "RWANDAN REPUBLIC": {
     "normal": "RWANDA",
     "name": "卢旺达",
     "code": "RW",
@@ -5500,6 +5626,13 @@
     "code": "SM",
     "code3": "SMR",
     "num": "674"
+  },
+  "SAN MARTIN FRENCH PART": {
+    "normal": "SAINT MARTIN (FRENCH PART)",
+    "name": "法属圣马丁",
+    "code": "MF",
+    "code3": "MAF",
+    "num": "663"
   },
   "SAN VICENTE Y LAS GR": {
     "normal": "SAINT VINCENT AND THE GRENADINES",
@@ -5719,6 +5852,13 @@
     "num": "534"
   },
   "SINT MAARTEN DUTCH": {
+    "normal": "SINT MAARTEN (DUTCH PART)",
+    "name": "荷属圣马丁",
+    "code": "SX",
+    "code3": "SXM",
+    "num": "534"
+  },
+  "SINT MAARTEN DUTCH PART": {
     "normal": "SINT MAARTEN (DUTCH PART)",
     "name": "荷属圣马丁",
     "code": "SX",
@@ -6488,6 +6628,13 @@
     "code3": "MKD",
     "num": "807"
   },
+  "THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA": {
+    "normal": "YUGOSLAVIA",
+    "name": "南斯拉夫",
+    "code": "YU",
+    "code3": "YUG",
+    "num": "891"
+  },
   "THE IVORY COAST": {
     "normal": "CÔTE D'IVOIRE",
     "name": "科特迪瓦",
@@ -6683,6 +6830,13 @@
     "code": "TN",
     "code3": "TUN",
     "num": "788"
+  },
+  "TURCAS IS": {
+    "normal": "TURKEY",
+    "name": "土耳其",
+    "code": "TR",
+    "code3": "TUR",
+    "num": "792"
   },
   "TURCAS Y CAICOS ISL": {
     "normal": "TURKS AND CAICOS ISLANDS",
@@ -6936,6 +7090,13 @@
     "code3": "GBR",
     "num": "826"
   },
+  "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
   "UNITED REPUBLIC OF TANZANIA": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
@@ -7168,6 +7329,13 @@
     "num": "862"
   },
   "VENEZUELA BOLIVARIAN REPUBLIC": {
+    "normal": "VENEZUELA",
+    "name": "委内瑞拉",
+    "code": "VE",
+    "code3": "VEN",
+    "num": "862"
+  },
+  "VENEZUELA BOLIVARIAN REPUBLIC OF": {
     "normal": "VENEZUELA",
     "name": "委内瑞拉",
     "code": "VE",
