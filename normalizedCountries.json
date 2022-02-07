@@ -7188,6 +7188,13 @@
     "code3": "VEN",
     "num": "862"
   },
+  "VENEZUELA BOLIVARIAN REPUBLIC OF": {
+    "normal": "VENEZUELA",
+    "name": "委内瑞拉",
+    "code": "VE",
+    "code3": "VEN",
+    "num": "862"
+  },
   "VENEZUELA VE": {
     "normal": "VENEZUELA",
     "name": "委内瑞拉",
@@ -7510,6 +7517,13 @@
     "code3": "ZWE",
     "num": "716"
   },
+  "ZIMBZBWE": {
+    "normal": "ZIMBABWE",
+    "name": "津巴布韦",
+    "code": "ZW",
+    "code3": "ZWE",
+    "num": "716"
+  },
   "ZM ZAMBIA": {
     "normal": "ZAMBIA",
     "name": "赞比亚",
@@ -7706,6 +7720,13 @@
     "code3": "BOL",
     "num": "068"
   },
+  "БОСНИЯ ГЕРЦЕ": {
+    "normal": "BOSNIA AND HERZEGOVINA",
+    "name": "波黑",
+    "code": "BA",
+    "code3": "BIH",
+    "num": "070"
+  },
   "БОСНИЯ И ГЕРЦЕГОВИНА": {
     "normal": "BOSNIA AND HERZEGOVINA",
     "name": "波黑",
@@ -7740,6 +7761,13 @@
     "code": "BF",
     "code3": "BFA",
     "num": "854"
+  },
+  "ВЕЛИКОБРИТАН": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
   },
   "ВЕНГРИЯ": {
     "normal": "HUNGARY",
@@ -7789,6 +7817,13 @@
     "code": "VI",
     "code3": "VIR",
     "num": "850"
+  },
+  "ВР О ВА": {
+    "normal": "VIRGIN ISLANDS (BRITISH)",
+    "name": "英属维尔京群岛",
+    "code": "VG",
+    "code3": "VGB",
+    "num": "092"
   },
   "ВЬЕТНАМ": {
     "normal": "VIETNAM",
@@ -8111,6 +8146,13 @@
     "code": "CN",
     "code3": "CHN",
     "num": "156"
+  },
+  "КНДР": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
   },
   "КОКОСОВЫЕ КИЛИНГ ОСТРОВА": {
     "normal": "COCOS (KEELING) ISLANDS",
@@ -8448,6 +8490,13 @@
     "code3": "NGA",
     "num": "566"
   },
+  "НИДЕРЛАНД А": {
+    "normal": "NETHERLANDS",
+    "name": "荷兰",
+    "code": "NL",
+    "code3": "NLD",
+    "num": "528"
+  },
   "НИДЕРЛАНДЫ": {
     "normal": "NETHERLANDS",
     "name": "荷兰",
@@ -8469,6 +8518,13 @@
     "code3": "NIU",
     "num": "570"
   },
+  "НОВ ЗЕЛАН": {
+    "normal": "NEW ZEALAND",
+    "name": "新西兰",
+    "code": "NZ",
+    "code3": "NZL",
+    "num": "554"
+  },
   "НОВАЯ ЗЕЛАНДИЯ": {
     "normal": "NEW ZEALAND",
     "name": "新西兰",
@@ -8482,6 +8538,13 @@
     "code": "NO",
     "code3": "NOR",
     "num": "578"
+  },
+  "ОАЭ": {
+    "normal": "UNITED ARAB EMIRATES",
+    "name": "阿联酋",
+    "code": "AE",
+    "code3": "ARE",
+    "num": "784"
   },
   "ОБЪЕД АРАБСКИЕ ЭМИРАТЫ": {
     "normal": "UNITED ARAB EMIRATES",
@@ -8588,6 +8651,13 @@
     "code3": "PRI",
     "num": "630"
   },
+  "ПУЭРТОРИКО": {
+    "normal": "PUERTO RICO",
+    "name": "波多黎各",
+    "code": "PR",
+    "code3": "PRI",
+    "num": "630"
+  },
   "РЕСПУБЛИКА МАКЕДОНИЯ": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
@@ -8623,6 +8693,13 @@
     "code3": "ROU",
     "num": "642"
   },
+  "САМОА": {
+    "normal": "SAMOA",
+    "name": "萨摩亚",
+    "code": "WS",
+    "code3": "WSM",
+    "num": "882"
+  },
   "САН МАРИНО": {
     "normal": "SAN MARINO",
     "name": "圣马力诺",
@@ -8636,6 +8713,13 @@
     "code": "ST",
     "code3": "STP",
     "num": "678"
+  },
+  "САУД АРАВ": {
+    "normal": "SAUDI ARABIA",
+    "name": "沙特阿拉伯",
+    "code": "SA",
+    "code3": "SAU",
+    "num": "682"
   },
   "САУДОВСКАЯ АРАВИЯ": {
     "normal": "SAUDI ARABIA",
@@ -8770,6 +8854,13 @@
     "code3": "SLE",
     "num": "694"
   },
+  "ТАДЖИКИСТА": {
+    "normal": "TAJIKISTAN",
+    "name": "塔吉克斯坦",
+    "code": "TJ",
+    "code3": "TJK",
+    "num": "762"
+  },
   "ТАДЖИКИСТАН": {
     "normal": "TAJIKISTAN",
     "name": "塔吉克斯坦",
@@ -8896,6 +8987,13 @@
     "code3": "FRO",
     "num": "234"
   },
+  "ФИЛИПИНЫ": {
+    "normal": "PHILIPPINES",
+    "name": "菲律宾",
+    "code": "PH",
+    "code3": "PHL",
+    "num": "608"
+  },
   "ФИЛИППИНЫ": {
     "normal": "PHILIPPINES",
     "name": "菲律宾",
@@ -9021,6 +9119,13 @@
     "code": "ET",
     "code3": "ETH",
     "num": "231"
+  },
+  "ЮАР": {
+    "normal": "SOUTH AFRICA",
+    "name": "南非",
+    "code": "ZA",
+    "code3": "ZAF",
+    "num": "710"
   },
   "ЮЖНАЯ АФРИКА": {
     "normal": "SOUTH AFRICA",
