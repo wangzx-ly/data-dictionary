@@ -888,7 +888,6 @@
     "code3": "BEL",
     "num": "056"
   },
-<<<<<<< HEAD
   "C OTE D IVOIRE": {
     "normal": "CÔTE D'IVOIRE",
     "name": "科特迪瓦",
@@ -903,8 +902,6 @@
     "code3": "CIV",
     "num": "384"
   },
-=======
->>>>>>> 9593347bb29203f133b9e6dbd92ebb0b6a7bb707
   "CA CANADA": {
     "normal": "CANADA",
     "name": "加拿大",
@@ -1542,7 +1539,6 @@
     "code3": "CUW",
     "num": "531"
   },
-<<<<<<< HEAD
   "CURAZAO TERRITORIO HOLAN": {
     "normal": "CURAÇAO",
     "name": "库拉索",
@@ -1557,8 +1553,6 @@
     "code3": "CUW",
     "num": "531"
   },
-=======
->>>>>>> 9593347bb29203f133b9e6dbd92ebb0b6a7bb707
   "CURAÇAO": {
     "normal": "CURAÇAO",
     "name": "库拉索",
