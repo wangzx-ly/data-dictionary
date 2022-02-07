@@ -916,6 +916,13 @@
     "code3": "CIV",
     "num": "384"
   },
+  "C TE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
   "CA CANADA": {
     "normal": "CANADA",
     "name": "加拿大",
@@ -1364,6 +1371,13 @@
     "code3": "COG",
     "num": "178"
   },
+  "CONGO DEMOCRATIC REPUBLI": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
   "CONGO DEMOCRATIC REPUBLIC OF": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
@@ -1575,6 +1589,13 @@
     "num": "531"
   },
   "CURACAO": {
+    "normal": "CURAÇAO",
+    "name": "库拉索",
+    "code": "CW",
+    "code3": "CUW",
+    "num": "531"
+  },
+  "CURAZAO TERRITORIO HOLAN": {
     "normal": "CURAÇAO",
     "name": "库拉索",
     "code": "CW",
@@ -3667,6 +3688,13 @@
     "code3": "LVA",
     "num": "428"
   },
+  "LETONIA REPUBLICA DE": {
+    "normal": "LATVIA",
+    "name": "拉脱维亚",
+    "code": "LV",
+    "code3": "LVA",
+    "num": "428"
+  },
   "LIBANO": {
     "normal": "LEBANON",
     "name": "黎巴嫩",
@@ -3752,6 +3780,13 @@
     "num": "440"
   },
   "LITUANIA": {
+    "normal": "LITHUANIA",
+    "name": "立陶宛",
+    "code": "LT",
+    "code3": "LTU",
+    "num": "440"
+  },
+  "LITUANIA REPUBLICA DE": {
     "normal": "LITHUANIA",
     "name": "立陶宛",
     "code": "LT",
@@ -4270,6 +4305,13 @@
     "num": "498"
   },
   "MOLDAVIA MD": {
+    "normal": "MOLDOVA",
+    "name": "摩尔多瓦",
+    "code": "MD",
+    "code3": "MDA",
+    "num": "498"
+  },
+  "MOLDAVIA REPUBLICA DE": {
     "normal": "MOLDOVA",
     "name": "摩尔多瓦",
     "code": "MD",
@@ -4864,6 +4906,13 @@
     "code3": "NLD",
     "num": "528"
   },
+  "PAISES BAJOS REINO DE LO": {
+    "normal": "NETHERLANDS",
+    "name": "荷兰",
+    "code": "NL",
+    "code3": "NLD",
+    "num": "528"
+  },
   "PAKISTAN": {
     "normal": "PAKISTAN",
     "name": "巴基斯坦",
@@ -5276,6 +5325,13 @@
     "code": "CZ",
     "code3": "CZE",
     "num": "203"
+  },
+  "REPUBLICA DE SERBIA": {
+    "normal": "SERBIA",
+    "name": "塞尔维亚",
+    "code": "RS",
+    "code3": "SRB",
+    "num": "688"
   },
   "REPUBLICA DOMINICA": {
     "normal": "DOMINICAN REPUBLIC",
@@ -6677,6 +6733,13 @@
     "code3": "TLS",
     "num": "626"
   },
+  "TIMOR ORIENTAL": {
+    "normal": "TIMOR-LESTE",
+    "name": "东帝汶",
+    "code": "TL",
+    "code3": "TLS",
+    "num": "626"
+  },
   "TIMORLESTE EAST TIMOR": {
     "normal": "TIMOR-LESTE",
     "name": "东帝汶",
@@ -7278,6 +7341,13 @@
     "code": "VU",
     "code3": "VUT",
     "num": "548"
+  },
+  "VATICAN CITY": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
   },
   "VATICAN CITY HOLY SEE": {
     "normal": "VATICAN CITY (HOLY SEE)",
