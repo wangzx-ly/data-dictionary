@@ -1973,6 +1973,13 @@
     "code3": "USA",
     "num": "840"
   },
+  "ESTADOS UNIDOS DE AMERICA": {
+    "normal": "UNITED STATES",
+    "name": "美国",
+    "code": "US",
+    "code3": "USA",
+    "num": "840"
+  },
   "ESTONIA": {
     "normal": "ESTONIA",
     "name": "爱沙尼亚",
@@ -2063,6 +2070,13 @@
     "code": "FM",
     "code3": "FSM",
     "num": "583"
+  },
+  "FEDERACION RUSA": {
+    "normal": "RUSSIA",
+    "name": "俄罗斯",
+    "code": "RU",
+    "code3": "RUS",
+    "num": "643"
   },
   "FEDERACION RUSIA": {
     "normal": "RUSSIA",
@@ -2672,6 +2686,13 @@
     "code": "HN",
     "code3": "HND",
     "num": "340"
+  },
+  "HOLANDA": {
+    "normal": "NETHERLANDS",
+    "name": "荷兰",
+    "code": "NL",
+    "code3": "NLD",
+    "num": "528"
   },
   "HOLANDA PAISES BAJO": {
     "normal": "NETHERLANDS",
