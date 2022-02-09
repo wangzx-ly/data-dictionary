@@ -223,6 +223,13 @@
     "code3": "ARG",
     "num": "032"
   },
+  "ARABIA SAUDI": {
+    "normal": "SAUDI ARABIA",
+    "name": "沙特阿拉伯",
+    "code": "SA",
+    "code3": "SAU",
+    "num": "682"
+  },
   "ARABIA SAUDITA": {
     "normal": "SAUDI ARABIA",
     "name": "沙特阿拉伯",
@@ -497,6 +504,13 @@
     "num": "056"
   },
   "BELICE": {
+    "normal": "BELIZE",
+    "name": "伯利兹",
+    "code": "BZ",
+    "code3": "BLZ",
+    "num": "084"
+  },
+  "BELIZ": {
     "normal": "BELIZE",
     "name": "伯利兹",
     "code": "BZ",
@@ -1637,6 +1651,13 @@
     "code3": "CZE",
     "num": "203"
   },
+  "CZECHOSLAVAKIA": {
+    "normal": "CZECHIA",
+    "name": "捷克",
+    "code": "CZ",
+    "code3": "CZE",
+    "num": "203"
+  },
   "CZECHOSLOVAKIA": {
     "normal": "CZECHIA",
     "name": "捷克",
@@ -2043,6 +2064,13 @@
     "code3": "FLK",
     "num": "238"
   },
+  "FALKLAND ISLANDS MALVINAS": {
+    "normal": "FALKLAND ISLANDS (MALVINAS)",
+    "name": "福克兰群岛（马尔维纳斯）",
+    "code": "FK",
+    "code3": "FLK",
+    "num": "238"
+  },
   "FALKLAND ISLAS MALV": {
     "normal": "FALKLAND ISLANDS (MALVINAS)",
     "name": "福克兰群岛（马尔维纳斯）",
@@ -2063,6 +2091,13 @@
     "code": "FO",
     "code3": "FRO",
     "num": "234"
+  },
+  "FED RUSA": {
+    "normal": "RUSSIA",
+    "name": "俄罗斯",
+    "code": "RU",
+    "code3": "RUS",
+    "num": "643"
   },
   "FED STATES OF MICRONESIA": {
     "normal": "MICRONESIA",
@@ -3001,6 +3036,20 @@
     "code": "IS",
     "code3": "ISL",
     "num": "352"
+  },
+  "ISL VIRGENES UK": {
+    "normal": "VIRGIN ISLANDS (BRITISH)",
+    "name": "英属维尔京群岛",
+    "code": "VG",
+    "code3": "VGB",
+    "num": "092"
+  },
+  "ISL VIRGENES US": {
+    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "ISLANDIA": {
     "normal": "ICELAND",
@@ -5137,6 +5186,13 @@
     "code3": "PRT",
     "num": "620"
   },
+  "PTO RICO": {
+    "normal": "PUERTO RICO",
+    "name": "波多黎各",
+    "code": "PR",
+    "code3": "PRI",
+    "num": "630"
+  },
   "PUERTO RICO": {
     "normal": "PUERTO RICO",
     "name": "波多黎各",
@@ -5192,6 +5248,13 @@
     "code": "CZ",
     "code3": "CZE",
     "num": "203"
+  },
+  "REP DE KOREA": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
   },
   "REP DOMINICANA": {
     "normal": "DOMINICAN REPUBLIC",
@@ -6137,6 +6200,13 @@
     "code": "LC",
     "code3": "LCA",
     "num": "662"
+  },
+  "ST PIERRE AND MIQUELON": {
+    "normal": "SAINT PIERRE AND MIQUELON",
+    "name": "圣皮埃尔和密克隆",
+    "code": "PM",
+    "code3": "SPM",
+    "num": "666"
   },
   "ST PIERRE MIQUELON": {
     "normal": "SAINT PIERRE AND MIQUELON",
