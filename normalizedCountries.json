@@ -1399,6 +1399,13 @@
     "code3": "COK",
     "num": "184"
   },
+  "COREA DEL SUR": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
   "COREA NORTE": {
     "normal": "NORTH KOREA",
     "name": "朝鲜",
