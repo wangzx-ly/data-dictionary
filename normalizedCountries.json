@@ -314,28 +314,7 @@
     "code3": "ARM",
     "num": "051"
   },
-  "ARMENIA REPAºBLICA DE": {
-    "normal": "ARMENIA",
-    "name": "亚美尼亚",
-    "code": "AM",
-    "code3": "ARM",
-    "num": "051"
-  },
-  "ARMENIA REPUBLICA DE": {
-    "normal": "ARMENIA",
-    "name": "亚美尼亚",
-    "code": "AM",
-    "code3": "ARM",
-    "num": "051"
-  },
   "ARUBA": {
-    "normal": "ARUBA",
-    "name": "阿鲁巴",
-    "code": "AW",
-    "code3": "ABW",
-    "num": "533"
-  },
-  "ARUBA TERRITORIO HOLANDES DE ULTRAMAR": {
     "normal": "ARUBA",
     "name": "阿鲁巴",
     "code": "AW",
@@ -426,20 +405,6 @@
     "code3": "AZE",
     "num": "031"
   },
-  "AZERBAIYA N REPAºBLICA DE": {
-    "normal": "AZERBAIJAN",
-    "name": "阿塞拜疆",
-    "code": "AZ",
-    "code3": "AZE",
-    "num": "031"
-  },
-  "AZERBAIYAN REPUBLICA DE": {
-    "normal": "AZERBAIJAN",
-    "name": "阿塞拜疆",
-    "code": "AZ",
-    "code3": "AZE",
-    "num": "031"
-  },
   "AZORES": {
     "normal": "PORTUGAL",
     "name": "葡萄牙",
@@ -453,13 +418,6 @@
     "code": "BA",
     "code3": "BIH",
     "num": "070"
-  },
-  "BA LGICA": {
-    "normal": "BELGIUM",
-    "name": "比利时",
-    "code": "BE",
-    "code3": "BEL",
-    "num": "056"
   },
   "BAHAMAS": {
     "normal": "BAHAMAS",
@@ -601,6 +559,13 @@
     "code3": "BEL",
     "num": "056"
   },
+  "BELGUM": {
+    "normal": "BELGIUM",
+    "name": "比利时",
+    "code": "BE",
+    "code3": "BEL",
+    "num": "056"
+  },
   "BELICE": {
     "normal": "BELIZE",
     "name": "伯利兹",
@@ -637,20 +602,6 @@
     "num": "204"
   },
   "BENIN PEOPLE S REP OF DAHOMEY": {
-    "normal": "BENIN",
-    "name": "贝宁",
-    "code": "BJ",
-    "code3": "BEN",
-    "num": "204"
-  },
-  "BENIN REPAºBLICA DE": {
-    "normal": "BENIN",
-    "name": "贝宁",
-    "code": "BJ",
-    "code3": "BEN",
-    "num": "204"
-  },
-  "BENIN REPUBLICA DE": {
     "normal": "BENIN",
     "name": "贝宁",
     "code": "BJ",
@@ -713,20 +664,6 @@
     "code3": "BLR",
     "num": "112"
   },
-  "BIELORRUSIA REPAºBLICA DE": {
-    "normal": "BELARUS",
-    "name": "白俄罗斯",
-    "code": "BY",
-    "code3": "BLR",
-    "num": "112"
-  },
-  "BIELORRUSIA REPUBLICA DE": {
-    "normal": "BELARUS",
-    "name": "白俄罗斯",
-    "code": "BY",
-    "code3": "BLR",
-    "num": "112"
-  },
   "BIRMANIA": {
     "normal": "MYANMAR",
     "name": "缅甸",
@@ -769,12 +706,12 @@
     "code3": "BOL",
     "num": "068"
   },
-  "BOLIVIA PLURINATIONAL STATE OF": {
-    "normal": "BOLIVIA",
-    "name": "玻利维亚",
-    "code": "BO",
-    "code3": "BOL",
-    "num": "068"
+  "BONAIRE SINT EUSTATIUS AND SABA": {
+    "normal": "BONAIRE, SINT EUSTATIUS AND SABA",
+    "name": "荷兰加勒比区",
+    "code": "BQ",
+    "code3": "BES",
+    "num": "535"
   },
   "BOSNA I HERCEGOVINA": {
     "normal": "BOSNIA AND HERZEGOVINA",
@@ -1105,13 +1042,6 @@
     "code3": "CAN",
     "num": "124"
   },
-  "CA TE D IVOIRE": {
-    "normal": "CÔTE D'IVOIRE",
-    "name": "科特迪瓦",
-    "code": "CI",
-    "code3": "CIV",
-    "num": "384"
-  },
   "CABO VERDE": {
     "normal": "CABO VERDE",
     "name": "佛得角",
@@ -1153,13 +1083,6 @@
     "code": "KH",
     "code3": "KHM",
     "num": "116"
-  },
-  "CAMERAºN": {
-    "normal": "CAMEROON",
-    "name": "喀麦隆",
-    "code": "CM",
-    "code3": "CMR",
-    "num": "120"
   },
   "CAMEROON": {
     "normal": "CAMEROON",
@@ -1287,13 +1210,6 @@
     "code3": "CAF",
     "num": "140"
   },
-  "CETE D IVOIRE": {
-    "normal": "CÔTE D'IVOIRE",
-    "name": "科特迪瓦",
-    "code": "CI",
-    "code3": "CIV",
-    "num": "384"
-  },
   "CF CENTRAL AFRICA REPUBLIC": {
     "normal": "CENTRAL AFRICAN REPUBLIC",
     "name": "中非",
@@ -1356,20 +1272,6 @@
     "code": "HK",
     "code3": "HKG",
     "num": "344"
-  },
-  "CHINA HONG KONG SPECIAL ADMINISTRATIVE REGION": {
-    "normal": "CHINA HONGKONG",
-    "name": "中国香港",
-    "code": "HK",
-    "code3": "HKG",
-    "num": "344"
-  },
-  "CHINA MACAO SPECIAL ADMINISTRATIVE REGION": {
-    "normal": "CHINA MACAO",
-    "name": "中国澳门",
-    "code": "MO",
-    "code3": "MAC",
-    "num": "446"
   },
   "CHINA MAINLAND": {
     "normal": "CHINA",
@@ -1567,13 +1469,6 @@
     "code3": "COM",
     "num": "174"
   },
-  "COMOROS ISLAS": {
-    "normal": "COMOROS",
-    "name": "科摩罗",
-    "code": "KM",
-    "code3": "COM",
-    "num": "174"
-  },
   "COMOROS REP OF": {
     "normal": "COMOROS",
     "name": "科摩罗",
@@ -1616,13 +1511,6 @@
     "code3": "COD",
     "num": "180"
   },
-  "CONGO DEMOCRATIC REPUBLIC OF THE": {
-    "normal": "CONGO (KINSHASA)",
-    "name": "刚果（金）",
-    "code": "CD",
-    "code3": "COD",
-    "num": "180"
-  },
   "CONGO KINSHASHA": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
@@ -1637,21 +1525,7 @@
     "code3": "COG",
     "num": "178"
   },
-  "CONGO REPAºBLICA DEL": {
-    "normal": "CONGO (BRAZZAVILLE)",
-    "name": "刚果（布）",
-    "code": "CG",
-    "code3": "COG",
-    "num": "178"
-  },
   "CONGO REPUBLIC OF": {
-    "normal": "CONGO (BRAZZAVILLE)",
-    "name": "刚果（布）",
-    "code": "CG",
-    "code3": "COG",
-    "num": "178"
-  },
-  "CONGO REPUBLICA DEL": {
     "normal": "CONGO (BRAZZAVILLE)",
     "name": "刚果（布）",
     "code": "CG",
@@ -1882,28 +1756,14 @@
     "code3": "CUB",
     "num": "192"
   },
-  "CURA CAO": {
-    "normal": "CURAÇAO",
-    "name": "库拉索",
-    "code": "CW",
-    "code3": "CUW",
-    "num": "531"
-  },
-  "CURAA AO": {
-    "normal": "CURAÇAO",
-    "name": "库拉索",
-    "code": "CW",
-    "code3": "CUW",
-    "num": "531"
-  },
-  "CURAAAO": {
-    "normal": "CURAÇAO",
-    "name": "库拉索",
-    "code": "CW",
-    "code3": "CUW",
-    "num": "531"
-  },
   "CURACAO": {
+    "normal": "CURAÇAO",
+    "name": "库拉索",
+    "code": "CW",
+    "code3": "CUW",
+    "num": "531"
+  },
+  "CURAZAO": {
     "normal": "CURAÇAO",
     "name": "库拉索",
     "code": "CW",
@@ -2120,13 +1980,6 @@
     "code3": "DJI",
     "num": "262"
   },
-  "DJIBOUTI REPAºBLICA DE": {
-    "normal": "DJIBOUTI",
-    "name": "吉布提",
-    "code": "DJ",
-    "code3": "DJI",
-    "num": "262"
-  },
   "DK DENMARK": {
     "normal": "DENMARK",
     "name": "丹麦",
@@ -2156,13 +2009,6 @@
     "num": "212"
   },
   "DOMINICA": {
-    "normal": "DOMINICAN REPUBLIC",
-    "name": "多米尼加",
-    "code": "DO",
-    "code3": "DOM",
-    "num": "214"
-  },
-  "DOMINICA COMUNIDAD DE": {
     "normal": "DOMINICAN REPUBLIC",
     "name": "多米尼加",
     "code": "DO",
@@ -2295,13 +2141,6 @@
     "code3": "SLV",
     "num": "222"
   },
-  "EMIRATOS A RABES UNIDOS": {
-    "normal": "UNITED ARAB EMIRATES",
-    "name": "阿联酋",
-    "code": "AE",
-    "code3": "ARE",
-    "num": "784"
-  },
   "EMIRATOS ARABES UNID": {
     "normal": "UNITED ARAB EMIRATES",
     "name": "阿联酋",
@@ -2379,28 +2218,7 @@
     "code3": "SVN",
     "num": "705"
   },
-  "ESLOVENIA REPAºBLICA DE": {
-    "normal": "SLOVENIA",
-    "name": "斯洛文尼亚",
-    "code": "SI",
-    "code3": "SVN",
-    "num": "705"
-  },
-  "ESLOVENIA REPUBLICA DE": {
-    "normal": "SLOVENIA",
-    "name": "斯洛文尼亚",
-    "code": "SI",
-    "code3": "SVN",
-    "num": "705"
-  },
   "ESPA A": {
-    "normal": "SPAIN",
-    "name": "西班牙",
-    "code": "ES",
-    "code3": "ESP",
-    "num": "724"
-  },
-  "ESPAA A": {
     "normal": "SPAIN",
     "name": "西班牙",
     "code": "ES",
@@ -2422,13 +2240,6 @@
     "num": "724"
   },
   "ESTADOS UNIDOS": {
-    "normal": "UNITED STATES",
-    "name": "美国",
-    "code": "US",
-    "code3": "USA",
-    "num": "840"
-  },
-  "ESTADOS UNIDOS DE AMA RICA": {
     "normal": "UNITED STATES",
     "name": "美国",
     "code": "US",
@@ -2457,20 +2268,6 @@
     "num": "233"
   },
   "ESTONIA EE": {
-    "normal": "ESTONIA",
-    "name": "爱沙尼亚",
-    "code": "EE",
-    "code3": "EST",
-    "num": "233"
-  },
-  "ESTONIA REPAºBLICA DE": {
-    "normal": "ESTONIA",
-    "name": "爱沙尼亚",
-    "code": "EE",
-    "code3": "EST",
-    "num": "233"
-  },
-  "ESTONIA REPUBLICA DE": {
     "normal": "ESTONIA",
     "name": "爱沙尼亚",
     "code": "EE",
@@ -2666,20 +2463,6 @@
     "code3": "FJI",
     "num": "242"
   },
-  "FIJI REPAºBLICA DE": {
-    "normal": "FIJI",
-    "name": "斐济",
-    "code": "FJ",
-    "code3": "FJI",
-    "num": "242"
-  },
-  "FIJI REPUBLICA DE": {
-    "normal": "FIJI",
-    "name": "斐济",
-    "code": "FJ",
-    "code3": "FJI",
-    "num": "242"
-  },
   "FILIPINAS": {
     "normal": "PHILIPPINES",
     "name": "菲律宾",
@@ -2841,20 +2624,6 @@
     "code3": "GAB",
     "num": "266"
   },
-  "GABONESA REPAºBLICA": {
-    "normal": "GABON",
-    "name": "加蓬",
-    "code": "GA",
-    "code3": "GAB",
-    "num": "266"
-  },
-  "GABONESA REPUBLICA": {
-    "normal": "GABON",
-    "name": "加蓬",
-    "code": "GA",
-    "code3": "GAB",
-    "num": "266"
-  },
   "GABÓN": {
     "normal": "GABON",
     "name": "加蓬",
@@ -2995,13 +2764,6 @@
     "code3": "GIB",
     "num": "292"
   },
-  "GIBRALTAR R U": {
-    "normal": "GIBRALTAR",
-    "name": "直布罗陀",
-    "code": "GI",
-    "code3": "GIB",
-    "num": "292"
-  },
   "GM GAMBIA": {
     "normal": "GAMBIA",
     "name": "冈比亚",
@@ -3093,13 +2855,6 @@
     "code3": "GRL",
     "num": "304"
   },
-  "GROENLANDIA DINAMARCA": {
-    "normal": "DENMARK",
-    "name": "丹麦",
-    "code": "DK",
-    "code3": "DNK",
-    "num": "208"
-  },
   "GT GUATEMALA": {
     "normal": "GUATEMALA",
     "name": "危地马拉",
@@ -3115,13 +2870,6 @@
     "num": "316"
   },
   "GUADALUPE": {
-    "normal": "GUADELOUPE",
-    "name": "瓜德罗普",
-    "code": "GP",
-    "code3": "GLP",
-    "num": "312"
-  },
-  "GUADALUPE DEPARTAMENTO DE FRANCIA": {
     "normal": "GUADELOUPE",
     "name": "瓜德罗普",
     "code": "GP",
@@ -3422,13 +3170,6 @@
     "code3": "HUN",
     "num": "348"
   },
-  "HUNGRA A": {
-    "normal": "HUNGARY",
-    "name": "匈牙利",
-    "code": "HU",
-    "code3": "HUN",
-    "num": "348"
-  },
   "HUNGRIA": {
     "normal": "HUNGARY",
     "name": "匈牙利",
@@ -3512,13 +3253,6 @@
     "code": "ID",
     "code3": "IDN",
     "num": "360"
-  },
-  "INGLATERRA": {
-    "normal": "UNITED KINGDOM",
-    "name": "英国",
-    "code": "GB",
-    "code3": "GBR",
-    "num": "826"
   },
   "IQ IRAQ": {
     "normal": "IRAQ",
@@ -3667,20 +3401,6 @@
     "code3": "BHR",
     "num": "048"
   },
-  "ISLAS CAIMA N": {
-    "normal": "CAYMAN ISLANDS",
-    "name": "开曼群岛",
-    "code": "KY",
-    "code3": "CYM",
-    "num": "136"
-  },
-  "ISLAS CAIMAN": {
-    "normal": "CAYMAN ISLANDS",
-    "name": "开曼群岛",
-    "code": "KY",
-    "code3": "CYM",
-    "num": "136"
-  },
   "ISLAS MALVINAS": {
     "normal": "FALKLAND ISLANDS (MALVINAS)",
     "name": "福克兰群岛（马尔维纳斯）",
@@ -3688,33 +3408,12 @@
     "code3": "FLK",
     "num": "238"
   },
-  "ISLAS MARSHALL": {
-    "normal": "MARSHALL ISLANDS",
-    "name": "马绍尔群岛",
-    "code": "MH",
-    "code3": "MHL",
-    "num": "584"
-  },
-  "ISLAS PITCAIRN": {
-    "normal": "PITCAIRN",
-    "name": "皮特凯恩群岛",
-    "code": "PN",
-    "code3": "PCN",
-    "num": "612"
-  },
   "ISLAS SALOMON": {
     "normal": "SOLOMON ISLANDS",
     "name": "所罗门群岛",
     "code": "SB",
     "code3": "SLB",
     "num": "090"
-  },
-  "ISLAS TOKELAU": {
-    "normal": "TOKELAU",
-    "name": "托克劳",
-    "code": "TK",
-    "code3": "TKL",
-    "num": "772"
   },
   "ISLAS VIRGENES BRITANICAS": {
     "normal": "VIRGIN ISLANDS (BRITISH)",
@@ -3779,6 +3478,13 @@
     "code3": "ITA",
     "num": "380"
   },
+  "ITALU": {
+    "normal": "ITALY",
+    "name": "意大利",
+    "code": "IT",
+    "code3": "ITA",
+    "num": "380"
+  },
   "ITALY": {
     "normal": "ITALY",
     "name": "意大利",
@@ -3834,20 +3540,6 @@
     "code": "JM",
     "code3": "JAM",
     "num": "388"
-  },
-  "JAP N": {
-    "normal": "JAPAN",
-    "name": "日本",
-    "code": "JP",
-    "code3": "JPN",
-    "num": "392"
-  },
-  "JAPA N": {
-    "normal": "JAPAN",
-    "name": "日本",
-    "code": "JP",
-    "code3": "JPN",
-    "num": "392"
   },
   "JAPAN": {
     "normal": "JAPAN",
@@ -3933,13 +3625,6 @@
     "code3": "JPN",
     "num": "392"
   },
-  "KAZAJSTA N REPAºBLICA DE": {
-    "normal": "KAZAKHSTAN",
-    "name": "哈萨克斯坦",
-    "code": "KZ",
-    "code3": "KAZ",
-    "num": "398"
-  },
   "KAMPUCHEA DEMOCRATIC": {
     "normal": "CAMBODIA",
     "name": "柬埔寨",
@@ -3948,13 +3633,6 @@
     "num": "116"
   },
   "KAZAJSTAN": {
-    "normal": "KAZAKHSTAN",
-    "name": "哈萨克斯坦",
-    "code": "KZ",
-    "code3": "KAZ",
-    "num": "398"
-  },
-  "KAZAJSTAN REPUBLICA DE": {
     "normal": "KAZAKHSTAN",
     "name": "哈萨克斯坦",
     "code": "KZ",
@@ -4046,13 +3724,6 @@
     "num": "417"
   },
   "KIRIBATI": {
-    "normal": "KIRIBATI",
-    "name": "基里巴斯",
-    "code": "KI",
-    "code3": "KIR",
-    "num": "296"
-  },
-  "KIRIBATI REPUBLICA DE": {
     "normal": "KIRIBATI",
     "name": "基里巴斯",
     "code": "KI",
@@ -4311,13 +3982,6 @@
     "code3": "KAZ",
     "num": "398"
   },
-  "LA BANO": {
-    "normal": "LEBANON",
-    "name": "黎巴嫩",
-    "code": "LB",
-    "code3": "LBN",
-    "num": "422"
-  },
   "LA LAO": {
     "normal": "LAOS",
     "name": "老挝",
@@ -4458,35 +4122,7 @@
     "code3": "LSO",
     "num": "426"
   },
-  "LESOTHO REINO DE": {
-    "normal": "LESOTHO",
-    "name": "莱索托",
-    "code": "LS",
-    "code3": "LSO",
-    "num": "426"
-  },
   "LETONIA": {
-    "normal": "LATVIA",
-    "name": "拉脱维亚",
-    "code": "LV",
-    "code3": "LVA",
-    "num": "428"
-  },
-  "LETONIA REP BLICA DE": {
-    "normal": "LATVIA",
-    "name": "拉脱维亚",
-    "code": "LV",
-    "code3": "LVA",
-    "num": "428"
-  },
-  "LETONIA REPAºBLICA DE": {
-    "normal": "LATVIA",
-    "name": "拉脱维亚",
-    "code": "LV",
-    "code3": "LVA",
-    "num": "428"
-  },
-  "LETONIA REPBLICA DE": {
     "normal": "LATVIA",
     "name": "拉脱维亚",
     "code": "LV",
@@ -4591,13 +4227,6 @@
     "code3": "LIE",
     "num": "438"
   },
-  "LIECHTENSTEIN PRINCIPADO DE": {
-    "normal": "LIECHTENSTEIN",
-    "name": "列支敦士登",
-    "code": "LI",
-    "code3": "LIE",
-    "num": "438"
-  },
   "LIECHTENTEIN": {
     "normal": "LIECHTENSTEIN",
     "name": "列支敦士登",
@@ -4620,27 +4249,6 @@
     "num": "440"
   },
   "LITUANIA": {
-    "normal": "LITHUANIA",
-    "name": "立陶宛",
-    "code": "LT",
-    "code3": "LTU",
-    "num": "440"
-  },
-  "LITUANIA REP BLICA DE": {
-    "normal": "LITHUANIA",
-    "name": "立陶宛",
-    "code": "LT",
-    "code3": "LTU",
-    "num": "440"
-  },
-  "LITUANIA REPAºBLICA DE": {
-    "normal": "LITHUANIA",
-    "name": "立陶宛",
-    "code": "LT",
-    "code3": "LTU",
-    "num": "440"
-  },
-  "LITUANIA REPBLICA DE": {
     "normal": "LITHUANIA",
     "name": "立陶宛",
     "code": "LT",
@@ -4710,13 +4318,6 @@
     "code3": "LUX",
     "num": "442"
   },
-  "LUXEMBURGO GRAN DUCADO DE": {
-    "normal": "LUXEMBOURG",
-    "name": "卢森堡",
-    "code": "LU",
-    "code3": "LUX",
-    "num": "442"
-  },
   "LV LATVIA": {
     "normal": "LATVIA",
     "name": "拉脱维亚",
@@ -4744,20 +4345,6 @@
     "code": "MA",
     "code3": "MAR",
     "num": "504"
-  },
-  "MA NACO PRINCIPADO DE": {
-    "normal": "MONACO",
-    "name": "摩纳哥",
-    "code": "MC",
-    "code3": "MCO",
-    "num": "492"
-  },
-  "MA XICO": {
-    "normal": "MEXICO",
-    "name": "墨西哥",
-    "code": "MX",
-    "code3": "MEX",
-    "num": "484"
   },
   "MACAO": {
     "normal": "CHINA MACAO",
@@ -4814,20 +4401,6 @@
     "code": "MK",
     "code3": "MKD",
     "num": "807"
-  },
-  "MACEDONIA ANTIGUA REPAºBLICA YUGOSLAVA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
-  },
-  "MACEDONIA ANTIGUA REPUBLICA YUGOSLAVA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
   },
   "MACEDONIA F Y R": {
     "normal": "NORTH MACEDONIA",
@@ -5242,20 +4815,6 @@
     "code3": "MDA",
     "num": "498"
   },
-  "MOLDAVIA REP BLICA DE": {
-    "normal": "MOLDOVA",
-    "name": "摩尔多瓦",
-    "code": "MD",
-    "code3": "MDA",
-    "num": "498"
-  },
-  "MOLDAVIA REPBLICA DE": {
-    "normal": "MOLDOVA",
-    "name": "摩尔多瓦",
-    "code": "MD",
-    "code3": "MDA",
-    "num": "498"
-  },
   "MOLDAVIA REPUBLICA DE": {
     "normal": "MOLDOVA",
     "name": "摩尔多瓦",
@@ -5285,13 +4844,6 @@
     "num": "498"
   },
   "MONACO": {
-    "normal": "MONACO",
-    "name": "摩纳哥",
-    "code": "MC",
-    "code3": "MCO",
-    "num": "492"
-  },
-  "MONACO PRINCIPADO DE": {
     "normal": "MONACO",
     "name": "摩纳哥",
     "code": "MC",
@@ -5459,13 +5011,6 @@
     "code3": "MMR",
     "num": "104"
   },
-  "MYANMAR UNION DE": {
-    "normal": "MYANMAR",
-    "name": "缅甸",
-    "code": "MM",
-    "code3": "MMR",
-    "num": "104"
-  },
   "MYANMAR UNION OF BURMA": {
     "normal": "MYANMAR",
     "name": "缅甸",
@@ -5502,20 +5047,6 @@
     "num": "516"
   },
   "NAMIBIA": {
-    "normal": "NAMIBIA",
-    "name": "纳米比亚",
-    "code": "NA",
-    "code3": "NAM",
-    "num": "516"
-  },
-  "NAMIBIA REPAºBLICA DE": {
-    "normal": "NAMIBIA",
-    "name": "纳米比亚",
-    "code": "NA",
-    "code3": "NAM",
-    "num": "516"
-  },
-  "NAMIBIA REPUBLICA DE": {
     "normal": "NAMIBIA",
     "name": "纳米比亚",
     "code": "NA",
@@ -5640,13 +5171,6 @@
     "code": "NC",
     "code3": "NCL",
     "num": "540"
-  },
-  "NEW GINEA": {
-    "normal": "PAPUA NEW GUINEA",
-    "name": "巴布亚新几内亚",
-    "code": "PG",
-    "code3": "PNG",
-    "num": "598"
   },
   "NEW ZEALAN": {
     "normal": "NEW ZEALAND",
@@ -5872,20 +5396,6 @@
     "code3": "NCL",
     "num": "540"
   },
-  "NUEVA CALEDONIA TERRITORIO FRANCES": {
-    "normal": "NEW CALEDONIA",
-    "name": "新喀里多尼亚",
-    "code": "NC",
-    "code3": "NCL",
-    "num": "540"
-  },
-  "NUEVA GUINEA": {
-    "normal": "PAPUA NEW GUINEA",
-    "name": "巴布亚新几内亚",
-    "code": "PG",
-    "code3": "PNG",
-    "num": "598"
-  },
   "NUEVA ZELANDA": {
     "normal": "NEW ZEALAND",
     "name": "新西兰",
@@ -5907,21 +5417,7 @@
     "code3": "NZL",
     "num": "554"
   },
-  "OCCUPIED PALESTINIAN TERRITORY": {
-    "normal": "PALESTINE",
-    "name": "巴勒斯坦",
-    "code": "PS",
-    "code3": "PSE",
-    "num": "275"
-  },
   "OM OMAN": {
-    "normal": "OMAN",
-    "name": "阿曼",
-    "code": "OM",
-    "code3": "OMN",
-    "num": "512"
-  },
-  "OMA N": {
     "normal": "OMAN",
     "name": "阿曼",
     "code": "OM",
@@ -5984,20 +5480,6 @@
     "code3": "NLD",
     "num": "528"
   },
-  "PAISES BAJOS REINO DE LOS": {
-    "normal": "NETHERLANDS",
-    "name": "荷兰",
-    "code": "NL",
-    "code3": "NLD",
-    "num": "528"
-  },
-  "PAKISTA N": {
-    "normal": "PAKISTAN",
-    "name": "巴基斯坦",
-    "code": "PK",
-    "code3": "PAK",
-    "num": "586"
-  },
   "PAKISTAN": {
     "normal": "PAKISTAN",
     "name": "巴基斯坦",
@@ -6040,13 +5522,6 @@
     "code3": "PLW",
     "num": "585"
   },
-  "PALAU REPUBLICA DE": {
-    "normal": "PALAU",
-    "name": "帕劳",
-    "code": "PW",
-    "code3": "PLW",
-    "num": "585"
-  },
   "PALESTINA": {
     "normal": "PALESTINE",
     "name": "巴勒斯坦",
@@ -6076,13 +5551,6 @@
     "num": "275"
   },
   "PANAMA": {
-    "normal": "PANAMA",
-    "name": "巴拿马",
-    "code": "PA",
-    "code3": "PAN",
-    "num": "591"
-  },
-  "PANAMA CHANNEL": {
     "normal": "PANAMA",
     "name": "巴拿马",
     "code": "PA",
@@ -6278,13 +5746,6 @@
     "code3": "POL",
     "num": "616"
   },
-  "POLINESIA": {
-    "normal": "FRENCH POLYNESIA",
-    "name": "法属波利尼西亚",
-    "code": "PF",
-    "code3": "PYF",
-    "num": "258"
-  },
   "POLINESIA FRANCESA": {
     "normal": "FRENCH POLYNESIA",
     "name": "法属波利尼西亚",
@@ -6376,20 +5837,6 @@
     "code3": "QAT",
     "num": "634"
   },
-  "R EUNION": {
-    "normal": "REUNION",
-    "name": "留尼汪",
-    "code": "RE",
-    "code3": "REU",
-    "num": "638"
-  },
-  "R UNION": {
-    "normal": "REUNION",
-    "name": "留尼汪",
-    "code": "RE",
-    "code3": "REU",
-    "num": "638"
-  },
   "RE REUNION": {
     "normal": "REUNION",
     "name": "留尼汪",
@@ -6438,62 +5885,6 @@
     "code": "YE",
     "code3": "YEM",
     "num": "887"
-  },
-  "REPAºBLICA CHECA": {
-    "normal": "CZECHIA",
-    "name": "捷克",
-    "code": "CZ",
-    "code3": "CZE",
-    "num": "203"
-  },
-  "REPAºBLICA DE CROACIA": {
-    "normal": "CROATIA",
-    "name": "克罗地亚",
-    "code": "HR",
-    "code3": "HRV",
-    "num": "191"
-  },
-  "REPAºBLICA DE GEORGIA": {
-    "normal": "GEORGIA",
-    "name": "格鲁吉亚",
-    "code": "GE",
-    "code3": "GEO",
-    "num": "268"
-  },
-  "REPAºBLICA DOMINICANA": {
-    "normal": "DOMINICAN REPUBLIC",
-    "name": "多米尼加",
-    "code": "DO",
-    "code3": "DOM",
-    "num": "214"
-  },
-  "REPAºBLICA ESLOVACA": {
-    "normal": "SLOVAKIA",
-    "name": "斯洛伐克",
-    "code": "SK",
-    "code3": "SVK",
-    "num": "703"
-  },
-  "REPAºBLICA POPULAR DEL CONGO": {
-    "normal": "CONGO (BRAZZAVILLE)",
-    "name": "刚果（布）",
-    "code": "CG",
-    "code3": "COG",
-    "num": "178"
-  },
-  "REPBLICA POPULAR DEL CONGO": {
-    "normal": "CONGO (BRAZZAVILLE)",
-    "name": "刚果（布）",
-    "code": "CG",
-    "code3": "COG",
-    "num": "178"
-  },
-  "REPBLICA RUANDESA": {
-    "normal": "RWANDA",
-    "name": "卢旺达",
-    "code": "RW",
-    "code3": "RWA",
-    "num": "646"
   },
   "REPUBLIC OF KOREA": {
     "normal": "SOUTH KOREA",
@@ -6572,20 +5963,6 @@
     "code3": "KOR",
     "num": "410"
   },
-  "REPUBLICA DE CROACIA": {
-    "normal": "CROATIA",
-    "name": "克罗地亚",
-    "code": "HR",
-    "code3": "HRV",
-    "num": "191"
-  },
-  "REPUBLICA DE GEORGIA": {
-    "normal": "GEORGIA",
-    "name": "格鲁吉亚",
-    "code": "GE",
-    "code3": "GEO",
-    "num": "268"
-  },
   "REPUBLICA DE SERBIA": {
     "normal": "SERBIA",
     "name": "塞尔维亚",
@@ -6628,27 +6005,6 @@
     "code3": "DOM",
     "num": "214"
   },
-  "REPUBLICA ESLOVACA": {
-    "normal": "SLOVAKIA",
-    "name": "斯洛伐克",
-    "code": "SK",
-    "code3": "SVK",
-    "num": "703"
-  },
-  "REPUBLICA POPULAR DEL CONGO": {
-    "normal": "CONGO (BRAZZAVILLE)",
-    "name": "刚果（布）",
-    "code": "CG",
-    "code3": "COG",
-    "num": "178"
-  },
-  "REPUBLICA RUANDESA": {
-    "normal": "RWANDA",
-    "name": "卢旺达",
-    "code": "RW",
-    "code3": "RWA",
-    "num": "646"
-  },
   "REPUBLICA SEYCHELLES": {
     "normal": "SEYCHELLES",
     "name": "塞舌尔",
@@ -6690,13 +6046,6 @@
     "code": "CN",
     "code3": "CHN",
     "num": "156"
-  },
-  "REUNIA N": {
-    "normal": "REUNION",
-    "name": "留尼汪",
-    "code": "RE",
-    "code3": "REU",
-    "num": "638"
   },
   "REUNION": {
     "normal": "REUNION",
@@ -6768,21 +6117,7 @@
     "code3": "RUS",
     "num": "643"
   },
-  "RUSIA FEDERACIA N RUSA": {
-    "normal": "RUSSIA",
-    "name": "俄罗斯",
-    "code": "RU",
-    "code3": "RUS",
-    "num": "643"
-  },
   "RUSIA FEDERACION RU": {
-    "normal": "RUSSIA",
-    "name": "俄罗斯",
-    "code": "RU",
-    "code3": "RUS",
-    "num": "643"
-  },
-  "RUSIA FEDERACION RUSA": {
     "normal": "RUSSIA",
     "name": "俄罗斯",
     "code": "RU",
@@ -7055,28 +6390,7 @@
     "code3": "WSM",
     "num": "882"
   },
-  "SAN CRISTA BAL Y NIEVES": {
-    "normal": "SAINT KITTS AND NEVIS",
-    "name": "圣基茨和尼维斯",
-    "code": "KN",
-    "code3": "KNA",
-    "num": "659"
-  },
-  "SAN CRISTOBAL Y NIEVES": {
-    "normal": "SAINT KITTS AND NEVIS",
-    "name": "圣基茨和尼维斯",
-    "code": "KN",
-    "code3": "KNA",
-    "num": "659"
-  },
   "SAN MARINO": {
-    "normal": "SAN MARINO",
-    "name": "圣马力诺",
-    "code": "SM",
-    "code3": "SMR",
-    "num": "674"
-  },
-  "SAN MARINO SERENISIMA REPUBLICA DE": {
     "normal": "SAN MARINO",
     "name": "圣马力诺",
     "code": "SM",
@@ -7103,13 +6417,6 @@
     "code": "SH",
     "code3": "SHN",
     "num": "654"
-  },
-  "SANTA LUCA A": {
-    "normal": "SAINT LUCIA",
-    "name": "圣卢西亚",
-    "code": "LC",
-    "code3": "LCA",
-    "num": "662"
   },
   "SANTA LUCIA": {
     "normal": "SAINT LUCIA",
@@ -7734,13 +7041,6 @@
     "code3": "VCT",
     "num": "670"
   },
-  "SUDA FRICA": {
-    "normal": "SOUTH AFRICA",
-    "name": "南非",
-    "code": "ZA",
-    "code3": "ZAF",
-    "num": "710"
-  },
   "SUDAFRICA": {
     "normal": "SOUTH AFRICA",
     "name": "南非",
@@ -7860,13 +7160,6 @@
     "code3": "SWZ",
     "num": "748"
   },
-  "SWAZILANDIA REINO DE": {
-    "normal": "ESWATINI",
-    "name": "斯威士兰",
-    "code": "SZ",
-    "code3": "SWZ",
-    "num": "748"
-  },
   "SWAZILANDIA": {
     "normal": "ESWATINI",
     "name": "斯威士兰",
@@ -7978,6 +7271,13 @@
     "code": "ST",
     "code3": "STP",
     "num": "678"
+  },
+  "TADYIKISTAN": {
+    "normal": "TAJIKISTAN",
+    "name": "塔吉克斯坦",
+    "code": "TJ",
+    "code3": "TJK",
+    "num": "762"
   },
   "TAILANDIA": {
     "normal": "THAILAND",
@@ -8126,13 +7426,6 @@
     "code3": "GBR",
     "num": "826"
   },
-  "TERRITORIOS FRANCESES AUSTRALES Y ANTART": {
-    "normal": "FRENCH SOUTHERN TERRITORIES",
-    "name": "法属南部和南极领地",
-    "code": "TF",
-    "code3": "ATF",
-    "num": "260"
-  },
   "TG TOGO": {
     "normal": "TOGO",
     "name": "多哥",
@@ -8196,13 +7489,6 @@
     "code3": "MKD",
     "num": "807"
   },
-  "THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA": {
-    "normal": "YUGOSLAVIA",
-    "name": "南斯拉夫",
-    "code": "YU",
-    "code3": "YUG",
-    "num": "891"
-  },
   "THE IVORY COAST": {
     "normal": "CÔTE D'IVOIRE",
     "name": "科特迪瓦",
@@ -8258,13 +7544,6 @@
     "code": "TL",
     "code3": "TLS",
     "num": "626"
-  },
-  "TIVALU": {
-    "normal": "TUVALU",
-    "name": "图瓦卢",
-    "code": "TV",
-    "code3": "TUV",
-    "num": "798"
   },
   "TJ TAJIKISTAN": {
     "normal": "TAJIKISTAN",
@@ -8420,21 +7699,7 @@
     "code3": "TUN",
     "num": "788"
   },
-  "TURCAS IS": {
-    "normal": "TURKS AND CAICOS ISLANDS",
-    "name": "特克斯和凯科斯群岛",
-    "code": "TC",
-    "code3": "TCA",
-    "num": "796"
-  },
   "TURCAS Y CAICOS ISL": {
-    "normal": "TURKS AND CAICOS ISLANDS",
-    "name": "特克斯和凯科斯群岛",
-    "code": "TC",
-    "code3": "TCA",
-    "num": "796"
-  },
-  "TURCAS Y CAICOS ISLAS": {
     "normal": "TURKS AND CAICOS ISLANDS",
     "name": "特克斯和凯科斯群岛",
     "code": "TC",
@@ -8518,13 +7783,6 @@
     "code3": "TCA",
     "num": "796"
   },
-  "TURQUA A": {
-    "normal": "TURKEY",
-    "name": "土耳其",
-    "code": "TR",
-    "code3": "TUR",
-    "num": "792"
-  },
   "TURQUIA": {
     "normal": "TURKEY",
     "name": "土耳其",
@@ -8533,13 +7791,6 @@
     "num": "792"
   },
   "TUVALU": {
-    "normal": "TUVALU",
-    "name": "图瓦卢",
-    "code": "TV",
-    "code3": "TUV",
-    "num": "798"
-  },
-  "TUVALU COMUNIDAD BRITANICA DE NACIONES": {
     "normal": "TUVALU",
     "name": "图瓦卢",
     "code": "TV",
@@ -8784,13 +8035,6 @@
     "code3": "GBR",
     "num": "826"
   },
-  "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND": {
-    "normal": "UNITED KINGDOM",
-    "name": "英国",
-    "code": "GB",
-    "code3": "GBR",
-    "num": "826"
-  },
   "UNITED REPUBLIC OF TANZANIA": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
@@ -8938,13 +8182,6 @@
     "code3": "UZB",
     "num": "860"
   },
-  "UZBEKISTA N REPAºBLICA DE": {
-    "normal": "UZBEKISTAN",
-    "name": "乌兹别克斯坦",
-    "code": "UZ",
-    "code3": "UZB",
-    "num": "860"
-  },
   "UZBEKISTAN": {
     "normal": "UZBEKISTAN",
     "name": "乌兹别克斯坦",
@@ -8952,21 +8189,7 @@
     "code3": "UZB",
     "num": "860"
   },
-  "UZBEKISTAN REPUBLICA DE": {
-    "normal": "UZBEKISTAN",
-    "name": "乌兹别克斯坦",
-    "code": "UZ",
-    "code3": "UZB",
-    "num": "860"
-  },
   "UZBEKISTAN UZ": {
-    "normal": "UZBEKISTAN",
-    "name": "乌兹别克斯坦",
-    "code": "UZ",
-    "code3": "UZB",
-    "num": "860"
-  },
-  "UZBEKISTN REPBLICA DE": {
     "normal": "UZBEKISTAN",
     "name": "乌兹别克斯坦",
     "code": "UZ",
@@ -9134,20 +8357,6 @@
     "code3": "VGB",
     "num": "092"
   },
-  "VIRGENES ISLAS BRITA NICAS": {
-    "normal": "VIRGIN ISLANDS (BRITISH)",
-    "name": "英属维尔京群岛",
-    "code": "VG",
-    "code3": "VGB",
-    "num": "092"
-  },
-  "VIRGENES ISLAS BRITANICAS": {
-    "normal": "VIRGIN ISLANDS (BRITISH)",
-    "name": "英属维尔京群岛",
-    "code": "VG",
-    "code3": "VGB",
-    "num": "092"
-  },
   "VIRGENES ISLAS ESTADOS UNIDO": {
     "normal": "UNITED STATES VIRGIN ISLANDS",
     "name": "美属维尔京群岛",
@@ -9161,13 +8370,6 @@
     "code": "VG",
     "code3": "VGB",
     "num": "092"
-  },
-  "VIRGENES ISLAS NORTEAMERICANAS": {
-    "normal": "VIRGIN ISLANDS (U.S.)",
-    "name": "美属维尔京群岛",
-    "code": "VI",
-    "code3": "VIR",
-    "num": "850"
   },
   "VIRGENES ISLAS REINO UNIDO": {
     "normal": "VIRGIN ISLANDS (BRITISH)",
@@ -9372,6 +8574,13 @@
     "code3": "YUG",
     "num": "891"
   },
+  "YUGOSLABIA": {
+    "normal": "YUGOSLAVIA",
+    "name": "南斯拉夫",
+    "code": "YU",
+    "code3": "YUG",
+    "num": "891"
+  },
   "YUGOSLAV REP OF MACEDONIA": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
@@ -9436,20 +8645,6 @@
     "num": "834"
   },
   "ZIMBABWE": {
-    "normal": "ZIMBABWE",
-    "name": "津巴布韦",
-    "code": "ZW",
-    "code3": "ZWE",
-    "num": "716"
-  },
-  "ZIMBABWE REPAºBLICA DE": {
-    "normal": "ZIMBABWE",
-    "name": "津巴布韦",
-    "code": "ZW",
-    "code3": "ZWE",
-    "num": "716"
-  },
-  "ZIMBABWE REPUBLICA DE": {
     "normal": "ZIMBABWE",
     "name": "津巴布韦",
     "code": "ZW",
