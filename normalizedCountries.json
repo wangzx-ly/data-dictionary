@@ -1042,6 +1042,13 @@
     "code3": "CAN",
     "num": "124"
   },
+  "CA TE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
   "CABO VERDE": {
     "normal": "CABO VERDE",
     "name": "佛得角",
@@ -1505,6 +1512,13 @@
     "num": "180"
   },
   "CONGO DEMOCRATIC REPUBLIC OF": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
+  "CONGO DEMOCRATIC REPUBLIC OF THE": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
     "code": "CD",
@@ -5837,6 +5851,13 @@
     "code3": "QAT",
     "num": "634"
   },
+  "RA UNION": {
+    "normal": "REUNION",
+    "name": "留尼汪",
+    "code": "RE",
+    "code3": "REU",
+    "num": "638"
+  },
   "RE REUNION": {
     "normal": "REUNION",
     "name": "留尼汪",
@@ -8029,6 +8050,13 @@
     "num": "826"
   },
   "UNITED KINGDOM GREAT BRITAIN": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
+  "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND": {
     "normal": "UNITED KINGDOM",
     "name": "英国",
     "code": "GB",
