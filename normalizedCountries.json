@@ -1525,6 +1525,13 @@
     "code3": "COD",
     "num": "180"
   },
+  "CONGO DEMOCRATIC REPUBLIC": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
   "CONGO DEMOCRATIC REPUBLIC OF": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
@@ -1750,6 +1757,13 @@
     "num": "191"
   },
   "CROATIA HRVATSKA": {
+    "normal": "CROATIA",
+    "name": "克罗地亚",
+    "code": "HR",
+    "code3": "HRV",
+    "num": "191"
+  },
+  "CROATIA LOCAL NAME HRVATSKA": {
     "normal": "CROATIA",
     "name": "克罗地亚",
     "code": "HR",
@@ -5214,6 +5228,20 @@
     "code3": "NCL",
     "num": "540"
   },
+  "NEW ISRAEL": {
+    "normal": "ISRAEL",
+    "name": "以色列",
+    "code": "IL",
+    "code3": "ISR",
+    "num": "376"
+  },
+  "NEW TAIWAN": {
+    "normal": "CHINA TAIWAN",
+    "name": "中国台湾",
+    "code": "TW",
+    "code3": "TWN",
+    "num": "158"
+  },
   "NEW ZEALAN": {
     "normal": "NEW ZEALAND",
     "name": "新西兰",
@@ -5712,6 +5740,13 @@
     "num": "608"
   },
   "PHILIPPINES PH": {
+    "normal": "PHILIPPINES",
+    "name": "菲律宾",
+    "code": "PH",
+    "code3": "PHL",
+    "num": "608"
+  },
+  "PHILIPPINES REPUBLIC OF THE": {
     "normal": "PHILIPPINES",
     "name": "菲律宾",
     "code": "PH",
@@ -8211,6 +8246,13 @@
     "num": "858"
   },
   "URUGUAY": {
+    "normal": "URUGUAY",
+    "name": "乌拉圭",
+    "code": "UY",
+    "code3": "URY",
+    "num": "858"
+  },
+  "URUGUAYO": {
     "normal": "URUGUAY",
     "name": "乌拉圭",
     "code": "UY",
