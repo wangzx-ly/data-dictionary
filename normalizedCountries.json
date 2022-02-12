@@ -706,6 +706,13 @@
     "code3": "BOL",
     "num": "068"
   },
+  "BOLIVIA PLURINATIONAL": {
+    "normal": "BOLIVIA",
+    "name": "玻利维亚",
+    "code": "BO",
+    "code3": "BOL",
+    "num": "068"
+  },
   "BONAIRE SINT EUSTATIUS AND SABA": {
     "normal": "BONAIRE, SINT EUSTATIUS AND SABA",
     "name": "荷兰加勒比区",
@@ -1022,6 +1029,13 @@
     "num": "056"
   },
   "C OTE D IVOIRE": {
+    "normal": "CÔTE D'IVOIRE",
+    "name": "科特迪瓦",
+    "code": "CI",
+    "code3": "CIV",
+    "num": "384"
+  },
+  "C OTE DIVOIRE": {
     "normal": "CÔTE D'IVOIRE",
     "name": "科特迪瓦",
     "code": "CI",
@@ -1545,6 +1559,13 @@
     "code": "CG",
     "code3": "COG",
     "num": "178"
+  },
+  "CONGO THE DEMOCRATIC": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
   },
   "CONGO THE DEMOCRATIC REPUBLIC OF": {
     "normal": "CONGO (KINSHASA)",
@@ -4444,6 +4465,13 @@
     "code3": "MKD",
     "num": "807"
   },
+  "MACEDONIA THE FORMER": {
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
+  },
   "MACEDONIA THE FORMER YUGOSLAV REP OF": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
@@ -5850,6 +5878,13 @@
     "code": "QA",
     "code3": "QAT",
     "num": "634"
+  },
+  "R EUNION": {
+    "normal": "REUNION",
+    "name": "留尼汪",
+    "code": "RE",
+    "code3": "REU",
+    "num": "638"
   },
   "RA UNION": {
     "normal": "REUNION",
@@ -7328,6 +7363,13 @@
     "code3": "TWN",
     "num": "158"
   },
+  "TAIWAN PROVINCE OF": {
+    "normal": "CHINA TAIWAN",
+    "name": "中国台湾",
+    "code": "TW",
+    "code3": "TWN",
+    "num": "158"
+  },
   "TAIWAN PROVINCE OF CHINA": {
     "normal": "CHINA TAIWAN",
     "name": "中国台湾",
@@ -7406,6 +7448,13 @@
     "num": "834"
   },
   "TANZANIA TZ": {
+    "normal": "TANZANIA",
+    "name": "坦桑尼亚",
+    "code": "TZ",
+    "code3": "TZA",
+    "num": "834"
+  },
+  "TANZANIA UNITED": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
     "code": "TZ",
@@ -7777,6 +7826,13 @@
     "num": "795"
   },
   "TURKS AND": {
+    "normal": "TURKS AND CAICOS ISLANDS",
+    "name": "特克斯和凯科斯群岛",
+    "code": "TC",
+    "code3": "TCA",
+    "num": "796"
+  },
+  "TURKS AND CAICOS": {
     "normal": "TURKS AND CAICOS ISLANDS",
     "name": "特克斯和凯科斯群岛",
     "code": "TC",
