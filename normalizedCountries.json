@@ -965,6 +965,13 @@
     "code3": "BFA",
     "num": "854"
   },
+  "BURKINAFASO": {
+    "normal": "BURKINA FASO",
+    "name": "布基纳法索",
+    "code": "BF",
+    "code3": "BFA",
+    "num": "854"
+  },
   "BURKINO FASO": {
     "normal": "BURKINA FASO",
     "name": "布基纳法索",
@@ -1498,6 +1505,13 @@
     "num": "174"
   },
   "CONGO": {
+    "normal": "CONGO (BRAZZAVILLE)",
+    "name": "刚果（布）",
+    "code": "CG",
+    "code3": "COG",
+    "num": "178"
+  },
+  "CONGO BRAZAVILLE": {
     "normal": "CONGO (BRAZZAVILLE)",
     "name": "刚果（布）",
     "code": "CG",
@@ -2945,6 +2959,13 @@
     "code": "GU",
     "code3": "GUM",
     "num": "316"
+  },
+  "GUATAMALA": {
+    "normal": "GUATEMALA",
+    "name": "危地马拉",
+    "code": "GT",
+    "code3": "GTM",
+    "num": "320"
   },
   "GUATEMALA": {
     "normal": "GUATEMALA",
@@ -4506,6 +4527,13 @@
     "code": "YU",
     "code3": "YUG",
     "num": "891"
+  },
+  "MACEDONIA THE FORMER YUGUSLAW REPU": {
+    "normal": "NORTH MACEDONIA",
+    "name": "北马其顿",
+    "code": "MK",
+    "code3": "MKD",
+    "num": "807"
   },
   "MADAGASCAR": {
     "normal": "MADAGASCAR",
@@ -8154,6 +8182,13 @@
     "code3": "GBR",
     "num": "826"
   },
+  "UNITED KINGDOM UN OF GB NORTH IRELA": {
+    "normal": "UNITED KINGDOM",
+    "name": "英国",
+    "code": "GB",
+    "code3": "GBR",
+    "num": "826"
+  },
   "UNITED REPUBLIC OF TANZANIA": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
@@ -8531,6 +8566,13 @@
     "code": "VG",
     "code3": "VGB",
     "num": "092"
+  },
+  "VIRGIN ISLANDS OF THE UNITED STATES": {
+    "normal": "UNITED STATES VIRGIN ISLANDS",
+    "name": "美属维尔京群岛",
+    "code": "VI",
+    "code3": "VIR",
+    "num": "850"
   },
   "VIRGIN ISLANDS U S": {
     "normal": "VIRGIN ISLANDS (U.S.)",
