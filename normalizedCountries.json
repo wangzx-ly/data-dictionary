@@ -188,6 +188,13 @@
     "code3": "ATA",
     "num": "010"
   },
+  "ANTARICA": {
+    "normal": "ANTARCTICA",
+    "name": "南极洲",
+    "code": "AQ",
+    "code3": "ATA",
+    "num": "010"
+  },
   "ANTARTICA": {
     "normal": "ANTARCTICA",
     "name": "南极洲",
@@ -217,6 +224,13 @@
     "num": "028"
   },
   "ANTIGUA AND BARBUDA": {
+    "normal": "ANTIGUA AND BARBUDA",
+    "name": "安提瓜和巴布达",
+    "code": "AG",
+    "code3": "ATG",
+    "num": "028"
+  },
+  "ANTIGUA AND BERMUDA": {
     "normal": "ANTIGUA AND BARBUDA",
     "name": "安提瓜和巴布达",
     "code": "AG",
@@ -1210,7 +1224,21 @@
     "code3": "COD",
     "num": "180"
   },
+  "CEBELI TARIK": {
+    "normal": "GIBRALTAR",
+    "name": "直布罗陀",
+    "code": "GI",
+    "code3": "GIB",
+    "num": "292"
+  },
   "CENTRAL AF": {
+    "normal": "CENTRAL AFRICAN REPUBLIC",
+    "name": "中非",
+    "code": "CF",
+    "code3": "CAF",
+    "num": "140"
+  },
+  "CENTRAL AFRICA REPUBLIC": {
     "normal": "CENTRAL AFRICAN REPUBLIC",
     "name": "中非",
     "code": "CF",
@@ -1490,6 +1518,13 @@
     "code3": "COM",
     "num": "174"
   },
+  "COMORO ISLANDS": {
+    "normal": "COMOROS",
+    "name": "科摩罗",
+    "code": "KM",
+    "code3": "COM",
+    "num": "174"
+  },
   "COMOROS": {
     "normal": "COMOROS",
     "name": "科摩罗",
@@ -1554,6 +1589,13 @@
     "num": "180"
   },
   "CONGO DEMOCRATIC REPUBLIC OF THE": {
+    "normal": "CONGO (KINSHASA)",
+    "name": "刚果（金）",
+    "code": "CD",
+    "code3": "COD",
+    "num": "180"
+  },
+  "CONGO DEMOCRATIC REPUBLIC OLD ZAIRE": {
     "normal": "CONGO (KINSHASA)",
     "name": "刚果（金）",
     "code": "CD",
@@ -2121,6 +2163,13 @@
     "num": "012"
   },
   "EAST TIMOR": {
+    "normal": "TIMOR-LESTE",
+    "name": "东帝汶",
+    "code": "TL",
+    "code3": "TLS",
+    "num": "626"
+  },
+  "EAST TIMORO": {
     "normal": "TIMOR-LESTE",
     "name": "东帝汶",
     "code": "TL",
@@ -3128,6 +3177,13 @@
     "code3": "NLD",
     "num": "528"
   },
+  "HOLLAND": {
+    "normal": "NETHERLANDS",
+    "name": "荷兰",
+    "code": "NL",
+    "code3": "NLD",
+    "num": "528"
+  },
   "HOLY SEE VATICAN": {
     "normal": "VATICAN CITY (HOLY SEE)",
     "name": "梵蒂冈",
@@ -3457,6 +3513,13 @@
     "code3": "VIR",
     "num": "850"
   },
+  "ISLAMIC REPUBLIC OF IRAN": {
+    "normal": "IRAN",
+    "name": "伊朗",
+    "code": "IR",
+    "code3": "IRN",
+    "num": "364"
+  },
   "ISLANDIA": {
     "normal": "ICELAND",
     "name": "冰岛",
@@ -3710,6 +3773,13 @@
     "num": "398"
   },
   "KAZAJSTÁN": {
+    "normal": "KAZAKHSTAN",
+    "name": "哈萨克斯坦",
+    "code": "KZ",
+    "code3": "KAZ",
+    "num": "398"
+  },
+  "KAZAKHISTAN": {
     "normal": "KAZAKHSTAN",
     "name": "哈萨克斯坦",
     "code": "KZ",
@@ -4116,6 +4186,13 @@
     "num": "418"
   },
   "LAOS": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
+  },
+  "LAOS PEOPLE S REP": {
     "normal": "LAOS",
     "name": "老挝",
     "code": "LA",
@@ -4619,6 +4696,13 @@
     "code3": "MDV",
     "num": "462"
   },
+  "MALDIVE ISLANDS": {
+    "normal": "MALDIVES",
+    "name": "马尔代夫",
+    "code": "MV",
+    "code3": "MDV",
+    "num": "462"
+  },
   "MALDIVES": {
     "normal": "MALDIVES",
     "name": "马尔代夫",
@@ -4752,6 +4836,13 @@
     "code3": "MUS",
     "num": "480"
   },
+  "MAURITUS": {
+    "normal": "MAURITIUS",
+    "name": "毛里求斯",
+    "code": "MU",
+    "code3": "MUS",
+    "num": "480"
+  },
   "MAYOTTE": {
     "normal": "MAYOTTE",
     "name": "马约特",
@@ -4772,6 +4863,13 @@
     "code": "MD",
     "code3": "MDA",
     "num": "498"
+  },
+  "MEXICAN": {
+    "normal": "MEXICO",
+    "name": "墨西哥",
+    "code": "MX",
+    "code3": "MEX",
+    "num": "484"
   },
   "MEXICO": {
     "normal": "MEXICO",
@@ -5298,6 +5396,13 @@
     "code3": "NZL",
     "num": "554"
   },
+  "NEW ZELAND": {
+    "normal": "NEW ZEALAND",
+    "name": "新西兰",
+    "code": "NZ",
+    "code3": "NZL",
+    "num": "554"
+  },
   "NG NIGERIA": {
     "normal": "NIGERIA",
     "name": "尼日利亚",
@@ -5417,6 +5522,13 @@
     "code3": "PRK",
     "num": "408"
   },
+  "NORTH KOREA DEMOCRATIC PEOPLE S REP": {
+    "normal": "NORTH KOREA",
+    "name": "朝鲜",
+    "code": "KP",
+    "code3": "PRK",
+    "num": "408"
+  },
   "NORTH MACEDONIA": {
     "normal": "NORTH MACEDONIA",
     "name": "北马其顿",
@@ -5514,6 +5626,13 @@
     "code": "NZ",
     "code3": "NZL",
     "num": "554"
+  },
+  "OCCUPIED PALESTINE LAND": {
+    "normal": "PALESTINE",
+    "name": "巴勒斯坦",
+    "code": "PS",
+    "code3": "PSE",
+    "num": "275"
   },
   "OM OMAN": {
     "normal": "OMAN",
@@ -6047,6 +6166,13 @@
     "code3": "ZAF",
     "num": "710"
   },
+  "REPUBLIC OF SOUTH KOREA": {
+    "normal": "SOUTH KOREA",
+    "name": "韩国",
+    "code": "KR",
+    "code3": "KOR",
+    "num": "410"
+  },
   "REPUBLIC OF THE CONGO": {
     "normal": "CONGO (BRAZZAVILLE)",
     "name": "刚果（布）",
@@ -6502,6 +6628,13 @@
     "code3": "ASM",
     "num": "016"
   },
+  "SAMOA WEST SAMOA": {
+    "normal": "SAMOA",
+    "name": "萨摩亚",
+    "code": "WS",
+    "code3": "WSM",
+    "num": "882"
+  },
   "SAMOA WESTERN SAMOA": {
     "normal": "SAMOA",
     "name": "萨摩亚",
@@ -6683,6 +6816,13 @@
     "code": "RS",
     "code3": "SRB",
     "num": "688"
+  },
+  "SEYCHELLE ISLANDS AND ITS CONNECTIONS": {
+    "normal": "SEYCHELLES",
+    "name": "塞舌尔",
+    "code": "SC",
+    "code3": "SYC",
+    "num": "690"
   },
   "SEYCHELLES": {
     "normal": "SEYCHELLES",
@@ -6958,6 +7098,13 @@
     "num": "710"
   },
   "SOUTH AFRICA REP OF 7": {
+    "normal": "SOUTH AFRICA",
+    "name": "南非",
+    "code": "ZA",
+    "code3": "ZAF",
+    "num": "710"
+  },
+  "SOUTH AFRICA REPUBLIC": {
     "normal": "SOUTH AFRICA",
     "name": "南非",
     "code": "ZA",
@@ -7356,6 +7503,13 @@
     "code3": "SYR",
     "num": "760"
   },
+  "SYRIAN ARAB REP SYRIA": {
+    "normal": "SYRIA",
+    "name": "叙利亚",
+    "code": "SY",
+    "code3": "SYR",
+    "num": "760"
+  },
   "SYRIAN ARAB REPUBLIC": {
     "normal": "SYRIA",
     "name": "叙利亚",
@@ -7518,6 +7672,13 @@
     "num": "834"
   },
   "TANZANIA UNITED": {
+    "normal": "TANZANIA",
+    "name": "坦桑尼亚",
+    "code": "TZ",
+    "code3": "TZA",
+    "num": "834"
+  },
+  "TANZANIA UNITED REP": {
     "normal": "TANZANIA",
     "name": "坦桑尼亚",
     "code": "TZ",
@@ -7866,6 +8027,13 @@
     "code": "TR",
     "code3": "TUR",
     "num": "792"
+  },
+  "TURKISH REPUBLIC OF NORTHERN CYPRUS": {
+    "normal": "CYPRUS",
+    "name": "塞浦路斯",
+    "code": "CY",
+    "code3": "CYP",
+    "num": "196"
   },
   "TURKMENIST": {
     "normal": "TURKMENISTAN",
@@ -8505,6 +8673,13 @@
     "num": "704"
   },
   "VIETNAM VN": {
+    "normal": "VIETNAM",
+    "name": "越南",
+    "code": "VN",
+    "code3": "VNM",
+    "num": "704"
+  },
+  "VIETNAMESE": {
     "normal": "VIETNAM",
     "name": "越南",
     "code": "VN",
