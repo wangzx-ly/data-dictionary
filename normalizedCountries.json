@@ -10464,13 +10464,6 @@
     "code3": "VIR",
     "num": "850"
   },
-  "ВР О ВА": {
-    "normal": "VIRGIN ISLANDS (BRITISH)",
-    "name": "英属维尔京群岛",
-    "code": "VG",
-    "code3": "VGB",
-    "num": "092"
-  },
   "ВЬЕТНАМ": {
     "normal": "VIETNAM",
     "name": "越南",
@@ -11800,5 +11793,54 @@
     "code": "JP",
     "code3": "JPN",
     "num": "392"
+  },
+  "FALKLANDS ISLANDS": {
+    "normal": "FALKLAND ISLANDS (MALVINAS)",
+    "name": "福克兰群岛（马尔维纳斯）",
+    "code": "FK",
+    "code3": "FLK",
+    "num": "238"
+  },
+  "SLOVANIA": {
+    "normal": "SLOVENIA",
+    "name": "斯洛文尼亚",
+    "code": "SI",
+    "code3": "SVN",
+    "num": "705"
+  },
+  "HOLY SEE VATICAN CITY": {
+    "normal": "VATICAN CITY (HOLY SEE)",
+    "name": "梵蒂冈",
+    "code": "VA",
+    "code3": "VAT",
+    "num": "336"
+  },
+  "LAO PEOPLES DEMOCRATIC": {
+    "normal": "LAOS",
+    "name": "老挝",
+    "code": "LA",
+    "code3": "LAO",
+    "num": "418"
+  },
+  "SOUTH GEORGIA AND THE SOUTH": {
+    "normal": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+    "name": "南乔治亚岛和南桑威奇群岛",
+    "code": "GS",
+    "code3": "SGS",
+    "num": "239"
+  },
+  "TANZANIA UNITED REPUBLIC": {
+    "normal": "TANZANIA",
+    "name": "坦桑尼亚",
+    "code": "TZ",
+    "code3": "TZA",
+    "num": "834"
+  },
+  "UNITED STATES MINOR OUTLYING": {
+    "normal": "UNITED STATES MINOR OUTLYING ISLANDS",
+    "name": "美国本土外小岛屿",
+    "code": "UM",
+    "code3": "UMI",
+    "num": "581"
   }
 }
